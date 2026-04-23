@@ -8,174 +8,291 @@
     * { margin: 0; padding: 0; box-sizing: border-box; }
     body {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-      background: #0f0f23;
-      color: #fff;
+      display: flex;
       min-height: 100vh;
+      background: #f5f5f5;
     }
     
-    header {
-      background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
-      padding: 20px 40px;
-      border-bottom: 1px solid #333;
+    /* Sidebar */
+    .sidebar {
+      width: 240px;
+      background: linear-gradient(180deg, #1a1a2e 0%, #16213e 100%);
+      color: #fff;
+      padding: 0;
+      flex-shrink: 0;
+      display: flex;
+      flex-direction: column;
+    }
+    
+    .sidebar-header {
+      padding: 25px 20px;
+      border-bottom: 1px solid rgba(255,255,255,0.1);
+    }
+    
+    .sidebar-header h1 {
+      font-size: 1.2rem;
+      font-weight: 700;
+      letter-spacing: 0.5px;
+    }
+    
+    .sidebar-header p {
+      font-size: 0.7rem;
+      color: #888;
+      margin-top: 5px;
+    }
+    
+    .nav-section {
+      padding: 15px 0;
+    }
+    
+    .nav-section-title {
+      padding: 10px 20px 5px;
+      font-size: 0.65rem;
+      color: #666;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+    
+    .nav-item {
+      padding: 12px 20px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      cursor: pointer;
+      transition: all 0.2s;
+      border-left: 3px solid transparent;
+    }
+    
+    .nav-item:hover {
+      background: rgba(255,255,255,0.05);
+    }
+    
+    .nav-item.active {
+      background: rgba(79, 172, 254, 0.15);
+      border-left-color: #4facfe;
+      color: #4facfe;
+    }
+    
+    .nav-item .icon {
+      width: 18px;
+      text-align: center;
+    }
+    
+    /* Main Content */
+    .main-content {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+    
+    .top-bar {
+      background: #fff;
+      padding: 15px 30px;
+      border-bottom: 1px solid #e0e0e0;
       display: flex;
       justify-content: space-between;
       align-items: center;
     }
     
-    header h1 {
-      font-size: 1.5rem;
-      color: #4facfe;
+    .page-title {
+      font-size: 1.3rem;
+      font-weight: 600;
+      color: #1a1a2e;
     }
     
-    .tab-nav {
-      display: flex;
-      gap: 10px;
-    }
-    
-    .tab-btn {
-      padding: 10px 20px;
-      background: transparent;
-      border: 1px solid #444;
-      color: #888;
-      border-radius: 8px;
-      cursor: pointer;
-      transition: all 0.2s;
-    }
-    
-    .tab-btn.active {
-      background: #4facfe;
-      color: #fff;
-      border-color: #4facfe;
-    }
-    
-    .stats-bar {
-      display: flex;
-      gap: 20px;
-      padding: 20px 40px;
-      background: #16213e;
-      border-bottom: 1px solid #333;
-    }
-    
-    .stat-card {
-      background: #1a1a2e;
-      padding: 15px 25px;
-      border-radius: 12px;
-      border: 1px solid #333;
-      min-width: 150px;
-    }
-    
-    .stat-card .number {
-      font-size: 2rem;
-      font-weight: 700;
-      color: #4facfe;
-    }
-    
-    .stat-card .label {
-      font-size: 0.85rem;
-      color: #888;
-      margin-top: 5px;
-    }
-    
-    .main-content {
-      padding: 30px 40px;
-    }
-    
-    .search-bar {
+    .stats-row {
       display: flex;
       gap: 15px;
-      margin-bottom: 30px;
+    }
+    
+    .stat-badge {
+      padding: 8px 16px;
+      background: #f0f0f0;
+      border-radius: 20px;
+      font-size: 0.85rem;
+      color: #666;
+    }
+    
+    .stat-badge strong {
+      color: #1a1a2e;
+    }
+    
+    /* Filters */
+    .filters-bar {
+      background: #fff;
+      padding: 15px 30px;
+      border-bottom: 1px solid #e0e0e0;
+      display: flex;
+      gap: 15px;
+      flex-wrap: wrap;
+    }
+    
+    .filter-select {
+      padding: 10px 15px;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      background: #fff;
+      font-size: 0.9rem;
+      min-width: 150px;
+      cursor: pointer;
+    }
+    
+    .filter-select:focus {
+      outline: none;
+      border-color: #4facfe;
     }
     
     .search-input {
       flex: 1;
-      padding: 15px 20px;
-      background: #1a1a2e;
-      border: 1px solid #333;
-      border-radius: 12px;
-      color: #fff;
-      font-size: 1rem;
-      outline: none;
+      min-width: 200px;
+      padding: 10px 15px;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      font-size: 0.9rem;
     }
     
     .search-input:focus {
+      outline: none;
       border-color: #4facfe;
     }
     
-    .filter-select {
-      padding: 15px 20px;
-      background: #1a1a2e;
-      border: 1px solid #333;
+    /* Table */
+    .table-container {
+      flex: 1;
+      overflow: auto;
+      padding: 20px 30px;
+    }
+    
+    table {
+      width: 100%;
+      background: #fff;
       border-radius: 12px;
-      color: #fff;
-      font-size: 1rem;
-      min-width: 180px;
+      overflow: hidden;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+      border-collapse: collapse;
     }
     
-    .student-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-      gap: 15px;
+    thead {
+      background: #f8f9fa;
     }
     
-    .student-card {
-      background: #16213e;
-      border-radius: 12px;
-      padding: 20px;
-      border: 1px solid #333;
-      transition: all 0.2s;
+    th {
+      padding: 14px 16px;
+      text-align: left;
+      font-weight: 600;
+      font-size: 0.8rem;
+      color: #666;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      border-bottom: 2px solid #e0e0e0;
     }
     
-    .student-card:hover {
-      border-color: #4facfe;
-      transform: translateY(-2px);
+    td {
+      padding: 14px 16px;
+      font-size: 0.9rem;
+      color: #333;
+      border-bottom: 1px solid #f0f0f0;
+    }
+    
+    tr:hover {
+      background: #f8f9ff;
+    }
+    
+    tr:nth-child(even) {
+      background: #fafafa;
+    }
+    
+    tr:nth-child(even):hover {
+      background: #f8f9ff;
     }
     
     .student-name {
-      font-size: 1.1rem;
       font-weight: 600;
-      margin-bottom: 8px;
+      color: #1a1a2e;
     }
     
-    .student-branch {
+    .badge {
       display: inline-block;
-      background: #4facfe;
-      color: #000;
-      padding: 4px 12px;
-      border-radius: 20px;
+      padding: 4px 10px;
+      border-radius: 12px;
       font-size: 0.75rem;
-      font-weight: 600;
+      font-weight: 500;
     }
     
-    .student-meta {
-      margin-top: 12px;
-      font-size: 0.85rem;
-      color: #888;
+    .badge-branch {
+      background: #e3f2fd;
+      color: #1976d2;
+    }
+    
+    .badge-premium {
+      background: #ffebee;
+      color: #c62828;
+      margin-left: 8px;
+    }
+    
+    .badge-class {
+      background: #f5f5f5;
+      color: #666;
+      font-size: 0.7rem;
+    }
+    
+    .counselor-pill {
+      display: inline-block;
+      padding: 3px 8px;
+      background: #f0f0f0;
+      border-radius: 10px;
+      font-size: 0.75rem;
+      margin-right: 4px;
+      color: #555;
     }
     
     .empty-state {
       text-align: center;
       padding: 60px;
-      color: #666;
+      color: #999;
     }
     
     .hidden { display: none; }
   </style>
 </head>
 <body>
-  <header>
-    <h1>🎓 AM Intranet - Student Tracker</h1>
-    <div class="tab-nav">
-      <button class="tab-btn active" onclick="showTab('current')">Current Students</button>
-      <button class="tab-btn" onclick="showTab('past')">Past Clients</button>
+  <!-- Sidebar -->
+  <div class="sidebar">
+    <div class="sidebar-header">
+      <h1>🎓 AM Intranet</h1>
+      <p>Student Tracker</p>
     </div>
-  </header>
-  
-  <div class="stats-bar" id="stats-bar">
-    <!-- Stats populated by JS -->
+    <div class="nav-section">
+      <div class="nav-section-title">Operations</div>
+      <div class="nav-item active" onclick="showTab('current')">
+        <span class="icon">📊</span>
+        <span>Current Students</span>
+      </div>
+      <div class="nav-item" onclick="showTab('past')">
+        <span class="icon">📁</span>
+        <span>Past Clients</span>
+      </div>
+    </div>
+    <div class="nav-section">
+      <div class="nav-section-title">Branches</div>
+      <div class="nav-item"><span class="icon">🏢</span><span>Brea</span></div>
+      <div class="nav-item"><span class="icon">🏙️</span><span>Irvine</span></div>
+      <div class="nav-item"><span class="icon">🌴</span><span>LA</span></div>
+      <div class="nav-item"><span class="icon">🎓</span><span>San Marino</span></div>
+    </div>
   </div>
   
+  <!-- Main Content -->
   <div class="main-content">
-    <div class="search-bar">
+    <div class="top-bar">
+      <div class="page-title" id="page-title">Current Students</div>
+      <div class="stats-row" id="stats-row">
+        <!-- Populated by JS -->
+      </div>
+    </div>
+    
+    <div class="filters-bar">
       <input type="text" class="search-input" id="search-input" placeholder="Search students...">
       <select class="filter-select" id="branch-filter">
         <option value="all">All Branches</option>
@@ -186,14 +303,30 @@
         <option value="AMCHINA">AMCHINA</option>
         <option value="Korea">Korea</option>
       </select>
+      <select class="filter-select" id="primary-filter">
+        <option value="all">All Primary Counselors</option>
+      </select>
+      <select class="filter-select" id="year-filter">
+        <option value="all">All Class Years</option>
+      </select>
     </div>
     
-    <div id="current-students" class="student-grid">
-      <!-- Student cards go here -->
-    </div>
-    
-    <div id="past-clients" class="student-grid hidden">
-      <!-- Past client cards go here -->
+    <div class="table-container">
+      <table id="student-table">
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>Student</th>
+            <th>Branch</th>
+            <th>Class Year</th>
+            <th>Primary Counselor</th>
+            <th>Secondary Counselor</th>
+          </tr>
+        </thead>
+        <tbody id="table-body">
+          <!-- Populated by JS -->
+        </tbody>
+      </table>
     </div>
   </div>
 
@@ -201,7 +334,6 @@
     let currentData = [];
     let pastData = [];
     
-    // Load data
     async function loadData() {
       const [currentResp, pastResp] = await Promise.all([
         fetch('current_students.json'),
@@ -210,9 +342,36 @@
       currentData = await currentResp.json();
       pastData = await pastResp.json();
       
+      populateFilters();
       renderStats();
-      renderStudents(currentData, 'current-students');
-      renderStudents(pastData, 'past-clients');
+      renderTable(currentData);
+    }
+    
+    function populateFilters() {
+      // Get unique primary counselors and years
+      const primaries = new Set();
+      const years = new Set();
+      
+      currentData.forEach(s => {
+        if (s.primary) primaries.add(s.primary);
+        if (s.class_year) years.add(s.class_year);
+      });
+      
+      const primarySelect = document.getElementById('primary-filter');
+      Array.from(primaries).sort().forEach(p => {
+        const opt = document.createElement('option');
+        opt.value = p;
+        opt.textContent = p;
+        primarySelect.appendChild(opt);
+      });
+      
+      const yearSelect = document.getElementById('year-filter');
+      Array.from(years).sort().forEach(y => {
+        const opt = document.createElement('option');
+        opt.value = y;
+        opt.textContent = `Class of ${y}`;
+        yearSelect.appendChild(opt);
+      });
     }
     
     function renderStats() {
@@ -222,75 +381,77 @@
       });
       
       const statsHtml = `
-        <div class="stat-card">
-          <div class="number">${currentData.length}</div>
-          <div class="label">Current Students</div>
-        </div>
-        <div class="stat-card">
-          <div class="number">${pastData.length}</div>
-          <div class="label">Past Clients</div>
-        </div>
-        ${Object.entries(branchCounts).map(([branch, count]) => `
-          <div class="stat-card">
-            <div class="number">${count}</div>
-            <div class="label">${branch}</div>
-          </div>
-        `).join('')}
+        <span class="stat-badge"><strong>${currentData.length}</strong> Current</span>
+        <span class="stat-badge"><strong>${pastData.length}</strong> Past</span>
+        ${Object.entries(branchCounts).map(([b, c]) => 
+          `<span class="stat-badge">${b}: <strong>${c}</strong></span>`
+        ).join('')}
       `;
-      document.getElementById('stats-bar').innerHTML = statsHtml;
+      document.getElementById('stats-row').innerHTML = statsHtml;
     }
     
-    function renderStudents(data, elementId) {
-      const container = document.getElementById(elementId);
+    function renderTable(data) {
       const searchTerm = document.getElementById('search-input').value.toLowerCase();
       const branchFilter = document.getElementById('branch-filter').value;
+      const primaryFilter = document.getElementById('primary-filter').value;
+      const yearFilter = document.getElementById('year-filter').value;
       
       const filtered = data.filter(s => {
         const matchesSearch = s.name.toLowerCase().includes(searchTerm);
         const matchesBranch = branchFilter === 'all' || s.branch === branchFilter;
-        return matchesSearch && matchesBranch;
+        const matchesPrimary = primaryFilter === 'all' || s.primary === primaryFilter;
+        const matchesYear = yearFilter === 'all' || String(s.class_year) === yearFilter;
+        return matchesSearch && matchesBranch && matchesPrimary && matchesYear;
       });
       
+      const tbody = document.getElementById('table-body');
+      
       if (filtered.length === 0) {
-        container.innerHTML = '<div class="empty-state">No students found</div>';
+        tbody.innerHTML = '<tr><td colspan="6" class="empty-state">No students found</td></tr>';
         return;
       }
       
-      container.innerHTML = filtered.map(s => `
-        <div class="student-card">
-          <div class="student-name">${s.name}</div>
-          <span class="student-branch">${s.branch}</span>
-          <div class="student-meta">
-            ${s.class_year ? 'Class of ' + s.class_year : ''}
-          </div>
-        </div>
+      tbody.innerHTML = filtered.map((s, i) => `
+        <tr>
+          <td>${i + 1}</td>
+          <td><span class="student-name">${s.name}</span></td>
+          <td><span class="badge badge-branch">${s.branch}</span></td>
+          <td>${s.class_year ? `<span class="badge badge-class">Class of ${s.class_year}</span>` : '-'}</td>
+          <td>${s.primary ? `<span class="counselor-pill">${s.primary}</span>` : '-'}</td>
+          <td>${s.secondary ? `<span class="counselor-pill">${s.secondary}</span>` : '-'}</td>
+        </tr>
       `).join('');
     }
     
     function showTab(tab) {
-      document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
-      event.target.classList.add('active');
+      document.querySelectorAll('.nav-item').forEach(n => n.classList.remove('active'));
+      event.target.closest('.nav-item').classList.add('active');
       
-      if (tab === 'current') {
-        document.getElementById('current-students').classList.remove('hidden');
-        document.getElementById('past-clients').classList.add('hidden');
-      } else {
-        document.getElementById('current-students').classList.add('hidden');
-        document.getElementById('past-clients').classList.remove('hidden');
-      }
+      const title = tab === 'current' ? 'Current Students' : 'Past Clients';
+      document.getElementById('page-title').textContent = title;
+      
+      renderTable(tab === 'current' ? currentData : pastData);
     }
     
     // Event listeners
     document.getElementById('search-input').addEventListener('input', () => {
-      const activeTab = document.querySelector('.tab-btn.active').textContent;
-      const tab = activeTab.includes('Current') ? 'current-students' : 'past-clients';
-      renderStudents(tab === 'current-students' ? currentData : pastData, tab);
+      const activeTab = document.querySelector('.nav-item.active').textContent.includes('Current') ? currentData : pastData;
+      renderTable(activeTab);
     });
     
     document.getElementById('branch-filter').addEventListener('change', () => {
-      const activeTab = document.querySelector('.tab-btn.active').textContent;
-      const tab = activeTab.includes('Current') ? 'current-students' : 'past-clients';
-      renderStudents(tab === 'current-students' ? currentData : pastData, tab);
+      const activeTab = document.querySelector('.nav-item.active').textContent.includes('Current') ? currentData : pastData;
+      renderTable(activeTab);
+    });
+    
+    document.getElementById('primary-filter').addEventListener('change', () => {
+      const activeTab = document.querySelector('.nav-item.active').textContent.includes('Current') ? currentData : pastData;
+      renderTable(activeTab);
+    });
+    
+    document.getElementById('year-filter').addEventListener('change', () => {
+      const activeTab = document.querySelector('.nav-item.active').textContent.includes('Current') ? currentData : pastData;
+      renderTable(activeTab);
     });
     
     // Initialize
