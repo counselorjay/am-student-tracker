@@ -6,329 +6,199 @@
   <title>AM Intranet - Student Tracker</title>
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
-    body {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-      background: #fafafa;
-      color: #333;
-    }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: #fafafa; color: #333; }
     
-    /* Header */
-    .header {
-      background: #fff;
-      padding: 15px 30px;
-      border-bottom: 2px solid #DC143C; /* Crimson */
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-    }
+    .header { background: #fff; padding: 15px 30px; border-bottom: 2px solid #DC143C; display: flex; justify-content: space-between; align-items: center; box-shadow: 0 2px 4px rgba(0,0,0,0.05); }
+    .header h1 { font-size: 1.4rem; font-weight: 700; color: #1a1a2e; }
+    .header h1 span { color: #DC143C; }
+    .header-right { display: flex; align-items: center; gap: 20px; }
+    .header-stats { display: flex; gap: 15px; }
+    .stat-pill { padding: 8px 16px; background: #f5f5f5; border-radius: 20px; font-size: 0.85rem; }
+    .stat-pill strong { color: #DC143C; }
+    .btn { padding: 8px 16px; background: #DC143C; color: #fff; border: none; border-radius: 8px; cursor: pointer; font-size: 0.9rem; }
+    .btn:hover { background: #b01030; }
+    .btn-secondary { background: #666; }
     
-    .header h1 {
-      font-size: 1.4rem;
-      font-weight: 700;
-      color: #1a1a2e;
-    }
+    .filters-bar { background: #fff; padding: 15px 30px; border-bottom: 1px solid #eee; display: flex; gap: 12px; flex-wrap: wrap; }
+    .filter-select, .search-input { padding: 10px 14px; border: 1px solid #ddd; border-radius: 8px; font-size: 0.9rem; min-width: 140px; }
+    .filter-select:focus, .search-input:focus { outline: none; border-color: #DC143C; }
+    .search-input { flex: 1; min-width: 200px; }
     
-    .header h1 span {
-      color: #DC143C;
-    }
+    .branch-tabs { background: #fff; padding: 0 30px; display: flex; gap: 5px; border-bottom: 1px solid #eee; }
+    .branch-tab { padding: 12px 20px; background: none; border: none; font-size: 0.9rem; cursor: pointer; color: #666; border-bottom: 3px solid transparent; }
+    .branch-tab:hover { color: #DC143C; }
+    .branch-tab.active { color: #DC143C; border-bottom-color: #DC143C; font-weight: 600; }
     
-    .header-right {
-      display: flex;
-      align-items: center;
-      gap: 20px;
-    }
-    
-    .header-stats {
-      display: flex;
-      gap: 15px;
-    }
-    
-    .stat-pill {
-      padding: 8px 16px;
-      background: #f5f5f5;
-      border-radius: 20px;
-      font-size: 0.85rem;
-    }
-    
-    .stat-pill strong {
-      color: #DC143C;
-    }
-    
-    /* Filters */
-    .filters-bar {
-      background: #fff;
-      padding: 15px 30px;
-      border-bottom: 1px solid #eee;
-      display: flex;
-      gap: 12px;
-      flex-wrap: wrap;
-    }
-    
-    .filter-select {
-      padding: 10px 14px;
-      border: 1px solid #ddd;
-      border-radius: 8px;
-      background: #fff;
-      font-size: 0.9rem;
-      min-width: 160px;
-      cursor: pointer;
-    }
-    
-    .filter-select:focus {
-      outline: none;
-      border-color: #DC143C;
-    }
-    
-    .search-input {
-      flex: 1;
-      min-width: 200px;
-      padding: 10px 14px;
-      border: 1px solid #ddd;
-      border-radius: 8px;
-      font-size: 0.9rem;
-    }
-    
-    .search-input:focus {
-      outline: none;
-      border-color: #DC143C;
-    }
-    
-    /* Branch Tabs */
-    .branch-tabs {
-      background: #fff;
-      padding: 0 30px;
-      display: flex;
-      gap: 5px;
-      border-bottom: 1px solid #eee;
-    }
-    
-    .branch-tab {
-      padding: 12px 20px;
-      background: none;
-      border: none;
-      font-size: 0.9rem;
-      cursor: pointer;
-      color: #666;
-      border-bottom: 3px solid transparent;
-      transition: all 0.2s;
-    }
-    
-    .branch-tab:hover {
-      color: #DC143C;
-    }
-    
-    .branch-tab.active {
-      color: #DC143C;
-      border-bottom-color: #DC143C;
-      font-weight: 600;
-    }
-    
-    /* Table */
-    .table-container {
-      padding: 20px 30px;
-    }
-    
-    table {
-      width: 100%;
-      background: #fff;
-      border-radius: 12px;
-      overflow: hidden;
-      box-shadow: 0 1px 3px rgba(0,0,0,0.08);
-      border-collapse: collapse;
-    }
-    
-    thead {
-      background: #f8f8f8;
-    }
-    
-    th {
-      padding: 14px 16px;
-      text-align: left;
-      font-weight: 600;
-      font-size: 0.75rem;
-      color: #666;
-      text-transform: uppercase;
-      letter-spacing: 0.5px;
-      border-bottom: 2px solid #eee;
-    }
-    
-    td {
-      padding: 14px 16px;
-      font-size: 0.9rem;
-      color: #333;
-      border-bottom: 1px solid #f5f5f5;
-    }
-    
-    tr:hover {
-      background: #fafafa;
-    }
-    
-    .student-name {
-      font-weight: 600;
-      color: #1a1a2e;
-    }
-    
-    .badge {
-      display: inline-block;
-      padding: 4px 10px;
-      border-radius: 12px;
-      font-size: 0.75rem;
-      font-weight: 500;
-    }
-    
+    .table-container { padding: 20px 30px; }
+    table { width: 100%; background: #fff; border-radius: 12px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.08); border-collapse: collapse; }
+    thead { background: #f8f8f8; }
+    th { padding: 14px 16px; text-align: left; font-weight: 600; font-size: 0.75rem; color: #666; text-transform: uppercase; letter-spacing: 0.5px; border-bottom: 2px solid #eee; }
+    td { padding: 14px 16px; font-size: 0.9rem; color: #333; border-bottom: 1px solid #f5f5f5; }
+    tr:hover { background: #fafafa; }
+    .student-name { font-weight: 600; color: #1a1a2e; }
+    .badge { display: inline-block; padding: 4px 10px; border-radius: 12px; font-size: 0.75rem; font-weight: 500; margin-right: 5px; }
+    .badge-branch { background: #fff5f5; color: #DC143C; border: 1px solid #DC143C; }
     .badge-elite { background: linear-gradient(135deg, #1a1a2e, #16213e); color: #fff; }
     .badge-premium { background: #DC143C; color: #fff; }
-    .badge-branch {
-      background: #fff5f5;
-      color: #DC143C;
-      border: 1px solid #DC143C;
-    }
+    .badge-class { background: #f5f5f5; color: #666; font-size: 0.7rem; }
+    .counselor-pill { display: inline-block; padding: 3px 8px; background: #f0f0f0; border-radius: 10px; font-size: 0.75rem; margin-right: 4px; color: #555; }
     
-    .badge-class {
-      background: #f5f5f5;
-      color: #666;
-      font-size: 0.7rem;
-    }
+    .edit-btn { padding: 4px 8px; background: #eee; border: none; border-radius: 4px; cursor: pointer; font-size: 0.75rem; margin-right: 4px; }
+    .edit-btn:hover { background: #ddd; }
     
-    .counselor-pill {
-      display: inline-block;
-      padding: 3px 8px;
-      background: #f0f0f0;
-      border-radius: 10px;
-      font-size: 0.75rem;
-      margin-right: 4px;
-      color: #555;
-    }
+    .modal { display: none; position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0,0,0,0.5); z-index: 1000; align-items: center; justify-content: center; }
+    .modal.active { display: flex; }
+    .modal-content { background: #fff; border-radius: 12px; padding: 30px; max-width: 500px; width: 90%; max-height: 80vh; overflow-y: auto; }
+    .modal h2 { margin-bottom: 20px; color: #1a1a2e; }
+    .form-group { margin-bottom: 15px; }
+    .form-group label { display: block; margin-bottom: 5px; font-weight: 600; font-size: 0.9rem; color: #666; }
+    .form-group input, .form-group select { width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 8px; font-size: 0.9rem; }
+    .modal-buttons { display: flex; gap: 10px; justify-content: flex-end; margin-top: 20px; }
     
-    .empty-state {
-      text-align: center;
-      padding: 60px;
-      color: #999;
-      background: #fff;
-      border-radius: 12px;
-    }
+    .empty-state { text-align: center; padding: 60px; color: #999; background: #fff; border-radius: 12px; }
   </style>
 </head>
 <body>
-  <!-- Header -->
   <div class="header">
     <h1>AM <span>Intranet</span> - Student Tracker</h1>
     <div class="header-right">
-      <div class="header-stats" id="header-stats">
-        <!-- Populated by JS -->
-      </div>
+      <div class="header-stats" id="header-stats"></div>
+      <button class="btn" onclick="openNewModal()">+ New Student</button>
     </div>
   </div>
   
-  <!-- Filters -->
   <div class="filters-bar">
     <input type="text" class="search-input" id="search-input" placeholder="Search students...">
-    <select class="filter-select" id="branch-filter">
-      <option value="all">All Branches</option>
-    </select>
-    <select class="filter-select" id="primary-filter">
-      <option value="all">All Primary Counselors</option>
-    </select>
+    <select class="filter-select" id="branch-filter"><option value="all">All Branches</option></select>
+    <select class="filter-select" id="primary-filter"><option value="all">All Primary Counselors</option></select>
+    <select class="filter-select" id="year-filter"><option value="all">All Class Years</option></select>
     <select class="filter-select" id="tier-filter">
       <option value="all">All Tiers</option>
       <option value="Elite">Elite</option>
       <option value="Premium">Premium</option>
     </select>
-    <select class="filter-select" id="year-filter">
-      <option value="all">All Class Years</option>
-    </select>
   </div>
   
-  <!-- Branch Tabs -->
   <div class="branch-tabs" id="branch-tabs">
     <button class="branch-tab active" data-branch="all">All Branches</button>
   </div>
   
-  <!-- Table -->
   <div class="table-container">
-    <table id="student-table">
+    <table>
       <thead>
         <tr>
           <th style="width:50px">#</th>
           <th>Student</th>
           <th>Branch</th>
           <th>Class Year</th>
-          <th>Primary Counselor</th>
-          <th>Service Tier</th>
-            <th>Secondary Counselor</th>
+          <th>Tier</th>
+          <th>Primary</th>
+          <th>Secondary</th>
+          <th>Actions</th>
         </tr>
       </thead>
-      <tbody id="table-body">
-        <!-- Populated by JS -->
-      </tbody>
+      <tbody id="table-body"></tbody>
     </table>
+  </div>
+
+  <!-- Edit Modal -->
+  <div class="modal" id="editModal">
+    <div class="modal-content">
+      <h2 id="modalTitle">Edit Student</h2>
+      <input type="hidden" id="editId">
+      <div class="form-group">
+        <label>Student Name</label>
+        <input type="text" id="editName">
+      </div>
+      <div class="form-group">
+        <label>Branch</label>
+        <select id="editBranch"></select>
+      </div>
+      <div class="form-group">
+        <label>Class Year</label>
+        <input type="number" id="editYear">
+      </div>
+      <div class="form-group">
+        <label>Tier</label>
+        <select id="editTier">
+          <option value="">None</option>
+          <option value="Premium">Premium</option>
+          <option value="Elite">Elite</option>
+        </select>
+      </div>
+      <div class="form-group">
+        <label>Primary Counselor</label>
+        <select id="editPrimary"></select>
+      </div>
+      <div class="form-group">
+        <label>Secondary Counselor</label>
+        <select id="editSecondary"></select>
+      </div>
+      <div class="modal-buttons">
+        <button class="btn btn-secondary" onclick="closeModal()">Cancel</button>
+        <button class="btn" onclick="saveStudent()">Save Changes</button>
+      </div>
+    </div>
   </div>
 
   <script>
     let allData = [];
-    let currentData = [];
+    const GITHUB_REPO = 'counselorjay/am-student-tracker';
+    const DATA_FILE = 'current_students.json';
     
     async function loadData() {
-      const resp = await fetch('current_students.json');
+      const resp = await fetch(DATA_FILE);
       allData = await resp.json();
-      
-      // Filter for current students (class of 2026+ or no class year)
-      currentData = allData.filter(s => !s.class_year || s.class_year >= 2026);
-      
       populateFilters();
       renderStats();
       renderBranchTabs();
-      renderTable(currentData);
+      renderTable();
     }
     
     function populateFilters() {
-      // Branches
-      const branches = new Set(currentData.map(s => s.branch).filter(Boolean));
-      const branchSelect = document.getElementById('branch-filter');
-      Array.from(branches).sort().forEach(b => {
-        const opt = document.createElement('option');
-        opt.value = b;
-        opt.textContent = b;
-        branchSelect.appendChild(opt);
+      const branches = [...new Set(allData.map(s => s.branch).filter(Boolean))].sort();
+      const primaries = [...new Set(allData.map(s => s.primary).filter(Boolean))].sort();
+      const years = [...new Set(allData.map(s => s.class_year).filter(Boolean)).sort((a,b) => b-a)];
+      
+      const branchSel = document.getElementById('branch-filter');
+      const primarySel = document.getElementById('primary-filter');
+      const yearSel = document.getElementById('year-filter');
+      const editBranch = document.getElementById('editBranch');
+      const editPrimary = document.getElementById('editPrimary');
+      const editSecondary = document.getElementById('editSecondary');
+      
+      branchSel.innerHTML = '<option value="all">All Branches</option>';
+      editBranch.innerHTML = '';
+      branches.forEach(b => {
+        branchSel.innerHTML += `<option value="${b}">${b}</option>`;
+        editBranch.innerHTML += `<option value="${b}">${b}</option>`;
       });
       
-      // Primary counselors
-      const primaries = new Set(currentData.map(s => s.primary).filter(Boolean));
-      const primarySelect = document.getElementById('primary-filter');
-      Array.from(primaries).sort().forEach(p => {
-        const opt = document.createElement('option');
-        opt.value = p;
-        opt.textContent = p;
-        primarySelect.appendChild(opt);
+      primarySel.innerHTML = '<option value="all">All Primary Counselors</option>';
+      editPrimary.innerHTML = '<option value="">None</option>';
+      editSecondary.innerHTML = '<option value="">None</option>';
+      primaries.forEach(p => {
+        primarySel.innerHTML += `<option value="${p}">${p}</option>`;
+        editPrimary.innerHTML += `<option value="${p}">${p}</option>`;
+        editSecondary.innerHTML += `<option value="${p}">${p}</option>`;
       });
       
-      // Class years
-      const years = new Set(currentData.map(s => s.class_year).filter(Boolean));
-      const yearSelect = document.getElementById('year-filter');
-      Array.from(years).sort((a, b) => b - a).forEach(y => {
-        const opt = document.createElement('option');
-        opt.value = y;
-        opt.textContent = `Class of ${y}`;
-        yearSelect.appendChild(opt);
+      yearSel.innerHTML = '<option value="all">All Class Years</option>';
+      years.forEach(y => {
+        yearSel.innerHTML += `<option value="${y}">Class of ${y}</option>`;
       });
     }
     
     function renderStats() {
-      const total = currentData.length;
-      const branches = new Set(currentData.map(s => s.branch).filter(Boolean)).size;
-      
       document.getElementById('header-stats').innerHTML = `
-        <span class="stat-pill"><strong>${total}</strong> Students</span>
-        <span class="stat-pill"><strong>${branches}</strong> Branches</span>
+        <span class="stat-pill"><strong>${allData.length}</strong> Students</span>
       `;
     }
     
     function renderBranchTabs() {
-      const branches = new Set(currentData.map(s => s.branch).filter(Boolean));
-      const tabsContainer = document.getElementById('branch-tabs');
-      
-      Array.from(branches).sort().forEach(b => {
+      const branches = [...new Set(allData.map(s => s.branch).filter(Boolean))].sort();
+      const tabs = document.getElementById('branch-tabs');
+      branches.forEach(b => {
         const btn = document.createElement('button');
         btn.className = 'branch-tab';
         btn.dataset.branch = b;
@@ -337,42 +207,41 @@
           document.querySelectorAll('.branch-tab').forEach(t => t.classList.remove('active'));
           btn.classList.add('active');
           document.getElementById('branch-filter').value = b;
-          renderTable(getFilteredData());
+          renderTable();
         };
-        tabsContainer.appendChild(btn);
+        tabs.appendChild(btn);
       });
       
-      // Add "All" click handler
       document.querySelector('.branch-tab[data-branch="all"]').onclick = () => {
         document.querySelectorAll('.branch-tab').forEach(t => t.classList.remove('active'));
         document.querySelector('.branch-tab[data-branch="all"]').classList.add('active');
         document.getElementById('branch-filter').value = 'all';
-        renderTable(getFilteredData());
+        renderTable();
       };
     }
     
     function getFilteredData() {
-      const searchTerm = document.getElementById('search-input').value.toLowerCase();
-      const branchFilter = document.getElementById('branch-filter').value;
-      const primaryFilter = document.getElementById('primary-filter').value;
-      const tierFilter = document.getElementById('tier-filter').value;
-      const yearFilter = document.getElementById('year-filter').value;
+      const search = document.getElementById('search-input').value.toLowerCase();
+      const branch = document.getElementById('branch-filter').value;
+      const primary = document.getElementById('primary-filter').value;
+      const year = document.getElementById('year-filter').value;
+      const tier = document.getElementById('tier-filter').value;
       
-      return currentData.filter(s => {
-        const matchesSearch = s.name.toLowerCase().includes(searchTerm);
-        const matchesBranch = branchFilter === 'all' || s.branch === branchFilter;
-        const matchesPrimary = primaryFilter === 'all' || s.primary === primaryFilter;
-        const matchesYear = yearFilter === 'all' || String(s.class_year) === yearFilter;
-        const matchesTier = tierFilter === 'all' || (tierFilter === 'none' ? !s.tier : s.tier === tierFilter);
-        return matchesSearch && matchesBranch && matchesPrimary && matchesYear && matchesTier;
+      return allData.filter(s => {
+        return s.name.toLowerCase().includes(search) &&
+               (branch === 'all' || s.branch === branch) &&
+               (primary === 'all' || s.primary === primary) &&
+               (year === 'all' || String(s.class_year) === year) &&
+               (tier === 'all' || (tier === 'none' ? !s.tier : s.tier === tier));
       });
     }
     
-    function renderTable(data) {
+    function renderTable() {
+      const data = getFilteredData();
       const tbody = document.getElementById('table-body');
       
-      if (data.length === 0) {
-        tbody.innerHTML = '<tr><td colspan="6" class="empty-state">No students found</td></tr>';
+      if (!data.length) {
+        tbody.innerHTML = '<tr><td colspan="8" class="empty-state">No students found</td></tr>';
         return;
       }
       
@@ -382,20 +251,83 @@
           <td><span class="student-name">${s.name}</span></td>
           <td><span class="badge badge-branch">${s.branch || '-'}</span></td>
           <td>${s.class_year ? `<span class="badge badge-class">Class of ${s.class_year}</span>` : '-'}</td>
-          <td>${s.primary ? `<span class="counselor-pill">${s.primary}</span>` : '-'}</td>
           <td>${s.tier ? `<span class="badge ${s.tier === 'Elite' ? 'badge-elite' : 'badge-premium'}">${s.tier}</span>` : '-'}</td>
+          <td>${s.primary ? `<span class="counselor-pill">${s.primary}</span>` : '-'}</td>
           <td>${s.secondary ? `<span class="counselor-pill">${s.secondary}</span>` : '-'}</td>
+          <td>
+            <button class="edit-btn" onclick="editStudent(${i})">Edit</button>
+          </td>
         </tr>
       `).join('');
     }
     
-    // Event listeners
-    ['search-input', 'branch-filter', 'primary-filter', 'year-filter'].forEach(id => {
-      document.getElementById(id).addEventListener('input', () => renderTable(getFilteredData()));
-      document.getElementById(id).addEventListener('change', () => renderTable(getFilteredData()));
+    function editStudent(index) {
+      const s = getFilteredData()[index];
+      const allIndex = allData.findIndex(x => x.name === s.name && x.branch === s.branch);
+      
+      document.getElementById('modalTitle').textContent = 'Edit Student';
+      document.getElementById('editId').value = allIndex;
+      document.getElementById('editName').value = s.name;
+      document.getElementById('editBranch').value = s.branch || '';
+      document.getElementById('editYear').value = s.class_year || '';
+      document.getElementById('editTier').value = s.tier || '';
+      document.getElementById('editPrimary').value = s.primary || '';
+      document.getElementById('editSecondary').value = s.secondary || '';
+      
+      document.getElementById('editModal').classList.add('active');
+    }
+    
+    function openNewModal() {
+      document.getElementById('modalTitle').textContent = 'New Student';
+      document.getElementById('editId').value = '';
+      document.getElementById('editName').value = '';
+      document.getElementById('editBranch').value = '';
+      document.getElementById('editYear').value = '';
+      document.getElementById('editTier').value = '';
+      document.getElementById('editPrimary').value = '';
+      document.getElementById('editSecondary').value = '';
+      document.getElementById('editModal').classList.add('active');
+    }
+    
+    function closeModal() {
+      document.getElementById('editModal').classList.remove('active');
+    }
+    
+    async function saveStudent() {
+      const idx = document.getElementById('editId').value;
+      const student = {
+        name: document.getElementById('editName').value,
+        branch: document.getElementById('editBranch').value,
+        class_year: parseInt(document.getElementById('editYear').value) || '',
+        tier: document.getElementById('editTier').value,
+        primary: document.getElementById('editPrimary').value,
+        secondary: document.getElementById('editSecondary').value
+      };
+      
+      if (!student.name || !student.branch) {
+        alert('Name and Branch are required');
+        return;
+      }
+      
+      if (idx !== '') {
+        allData[parseInt(idx)] = student;
+      } else {
+        allData.push(student);
+      }
+      
+      // In a real app, we'd POST to an API to save
+      // For now, just update local and show success
+      renderStats();
+      renderTable();
+      closeModal();
+      alert('Saved! (Note: Changes are temporary - connect API for persistence)');
+    }
+    
+    ['search-input', 'branch-filter', 'primary-filter', 'year-filter', 'tier-filter'].forEach(id => {
+      document.getElementById(id).addEventListener('input', renderTable);
+      document.getElementById(id).addEventListener('change', renderTable);
     });
     
-    // Initialize
     loadData();
   </script>
 </body>
