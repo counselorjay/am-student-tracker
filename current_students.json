@@ -1,3327 +1,4230 @@
 [
   {
-    "name": "Haeun Nam",
-    "branch": "LA",
-    "primary": "Bonnie",
-    "secondary": "Jenny",
-    "class_year": 2017
-  },
-  {
-    "name": "Janet Lim",
-    "branch": "LA",
-    "primary": "Bonnie\n(Monthly)",
-    "secondary": "Jenny",
-    "class_year": 2017
-  },
-  {
-    "name": "Jasmine Chon",
-    "branch": "LA",
-    "primary": "Joseph",
-    "secondary": "Heather",
-    "class_year": 2017
-  },
-  {
-    "name": "Jinhyun Kang",
-    "branch": "LA",
-    "primary": "Joseph",
-    "secondary": "Vincent",
-    "class_year": 2017
-  },
-  {
-    "name": "Kailyn Song",
-    "branch": "LA",
-    "primary": "Joshua",
-    "secondary": "Jessica",
-    "class_year": 2017
-  },
-  {
-    "name": "Noah Sim",
-    "branch": "LA",
-    "primary": "Joseph",
-    "secondary": "Justin",
-    "class_year": 2017
-  },
-  {
-    "name": "Phillip Park",
-    "branch": "LA",
-    "primary": "Joshua",
-    "secondary": "Jessica",
-    "class_year": 2017
-  },
-  {
-    "name": "Soomin Lee",
-    "branch": "LA",
-    "primary": "Bonnie",
-    "secondary": "Anny",
-    "class_year": 2017
-  },
-  {
-    "name": "Tammy Shin",
-    "branch": "LA",
-    "primary": "Joshua",
-    "secondary": "Vincent",
-    "class_year": 2017
-  },
-  {
-    "name": "Ahrhan Lee",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Heather",
-    "class_year": 2017
-  },
-  {
-    "name": "Aiden Jaesung Lee",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Jason",
-    "class_year": 2017
-  },
-  {
-    "name": "Annabel Lee",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Jessica",
-    "class_year": 2017
-  },
-  {
-    "name": "Bom Rowena Lee",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Jenny",
-    "class_year": 2017
-  },
-  {
-    "name": "Caden Ouh",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Jessica",
-    "class_year": 2017
-  },
-  {
-    "name": "Caleb Song",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Vincent",
-    "class_year": 2017
-  },
-  {
-    "name": "Chaerin Park",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Jessica",
-    "class_year": 2017
-  },
-  {
-    "name": "Chloe Shin",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Heather",
-    "class_year": 2017
-  },
-  {
-    "name": "Clara An",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Jessica",
-    "class_year": 2017
-  },
-  {
-    "name": "Claire Choi",
-    "branch": "LA",
-    "primary": "Yohan",
-    "secondary": "Heather",
-    "class_year": 2017
-  },
-  {
-    "name": "Daniel Seungjoon Lee",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Jason",
-    "class_year": 2017
-  },
-  {
-    "name": "Dashiell Stevens",
-    "branch": "LA",
-    "primary": "Bonnie",
-    "secondary": "Jason",
-    "class_year": 2017
-  },
-  {
-    "name": "Dennis Geonhee Lee",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Jay",
-    "class_year": 2017
-  },
-  {
-    "name": "Daniel Wu\n[CH]",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Heather",
-    "class_year": 2017
-  },
-  {
-    "name": "Dohee Lee",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Jenny",
-    "class_year": 2017
-  },
-  {
-    "name": "Elaine Kim",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Vesper",
-    "class_year": 2017
-  },
-  {
-    "name": "Eleanor Gil",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Jenny",
-    "class_year": 2017
-  },
-  {
-    "name": "Ethan Cha",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Jay",
-    "class_year": 2017
-  },
-  {
-    "name": "Ethan Moon",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Heather",
-    "class_year": 2017
-  },
-  {
-    "name": "Heesuh Kim",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Vincent",
-    "class_year": 2017
-  },
-  {
-    "name": "Hyoungjun Eric Jeon",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Vesper",
-    "class_year": 2017
-  },
-  {
-    "name": "Irene Yi",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Jay",
-    "class_year": 2017
-  },
-  {
-    "name": "Isaac Kim",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Vesper",
-    "class_year": 2017
-  },
-  {
-    "name": "Jaclyn Sim",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Jenny",
-    "class_year": 2017
-  },
-  {
-    "name": "Jayden Kim",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Jason",
-    "class_year": 2017
-  },
-  {
-    "name": "Jeffrey Chae",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Vesper",
-    "class_year": 2017
-  },
-  {
-    "name": "Jeewan Hong",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Jay",
-    "class_year": 2017
-  },
-  {
-    "name": "Joel Lee",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Heather",
-    "class_year": 2017
-  },
-  {
-    "name": "Joseph Lim",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Jason",
-    "class_year": 2017
-  },
-  {
-    "name": "Junue Jang",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Jay",
-    "class_year": 2017
-  },
-  {
-    "name": "Jiho Sung",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Jay",
-    "class_year": 2017
-  },
-  {
-    "name": "Jiwon Park",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Heather",
-    "class_year": 2017
-  },
-  {
-    "name": "Jungwoo Lee",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Heather",
-    "class_year": 2017
-  },
-  {
-    "name": "Kyunglim Lauren Baek",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Heather",
-    "class_year": 2017
-  },
-  {
-    "name": "Luke Kim",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Jenny",
-    "class_year": 2017
-  },
-  {
-    "name": "Mark Thomas Kim",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Jessica",
-    "class_year": 2017
-  },
-  {
-    "name": "Michael Moon",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2017
-  },
-  {
-    "name": "Michael Yoon",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Jessica",
-    "class_year": 2017
-  },
-  {
-    "name": "Minyoung Park",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Jessica",
-    "class_year": 2017
-  },
-  {
-    "name": "Nathan Cho",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Jay",
-    "class_year": 2017
-  },
-  {
-    "name": "Rachel Lee",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Vesper",
-    "class_year": 2017
-  },
-  {
-    "name": "Rachel Yoon",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Vesper",
-    "class_year": 2017
-  },
-  {
-    "name": "Romeo Ahn",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Jessica",
-    "class_year": 2017
-  },
-  {
-    "name": "Sanha Kim",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Heather",
-    "class_year": 2017
-  },
-  {
-    "name": "Sean Oh",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Jay",
-    "class_year": 2017
-  },
-  {
-    "name": "Seojun Yang",
-    "branch": "LA",
-    "primary": "Yohan",
-    "secondary": "Vincent",
-    "class_year": 2017
-  },
-  {
-    "name": "Sharon Kim",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Vesper",
-    "class_year": 2017
-  },
-  {
-    "name": "Serene Han",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Jenny",
-    "class_year": 2017
-  },
-  {
-    "name": "Yunseul Oh",
-    "branch": "LA",
-    "primary": "Yohan",
-    "secondary": "Heather",
-    "class_year": 2017
-  },
-  {
-    "name": "Abraham Kim",
-    "branch": "LA",
-    "primary": "Bonnie",
-    "secondary": "Jessica",
-    "class_year": 2017
-  },
-  {
-    "name": "Brian Kim",
-    "branch": "LA",
-    "primary": "Yohan",
-    "secondary": "Vincent",
-    "class_year": 2017
-  },
-  {
-    "name": "Chaewon Kim",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Heather",
-    "class_year": 2017
-  },
-  {
-    "name": "Doreen Yoon\n(changed from LA to IR)",
-    "branch": "LA",
+    "name": "Emily Yue Yuan",
+    "branch": "AMCHINA",
+    "class_year": "",
     "primary": "Jessica",
-    "secondary": "Jason",
-    "class_year": 2017
+    "secondary": "Anny"
   },
   {
-    "name": "Emily Yeonu Song",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Heather",
-    "class_year": 2017
+    "name": "Haiting Wang",
+    "branch": "AMCHINA",
+    "class_year": "",
+    "primary": "Anny",
+    "secondary": ""
   },
   {
-    "name": "Emma Park",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Jenny",
-    "class_year": 2017
+    "name": "Bill Zeyu Li",
+    "branch": "AMCHINA",
+    "class_year": "",
+    "primary": "Anny",
+    "secondary": ""
   },
   {
-    "name": "Emma Yeonseo Song",
-    "branch": "LA",
-    "primary": "Penny",
-    "secondary": "Jessica",
-    "class_year": 2017
-  },
-  {
-    "name": "Esther Moon",
-    "branch": "LA",
-    "primary": "Penny",
-    "secondary": "Jenny",
-    "class_year": 2017
-  },
-  {
-    "name": "Eunsuh Park",
-    "branch": "LA",
-    "primary": "Bonnie",
-    "secondary": "Jenny",
-    "class_year": 2017
-  },
-  {
-    "name": "Gyutae Kim",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Jessica",
-    "class_year": 2017
-  },
-  {
-    "name": "Ian Chhek",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Jason",
-    "class_year": 2017
-  },
-  {
-    "name": "Ian Park",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Heather",
-    "class_year": 2017
-  },
-  {
-    "name": "Ian W Nam",
-    "branch": "LA",
-    "primary": "Bonnie",
-    "secondary": "Jenny",
-    "class_year": 2017
-  },
-  {
-    "name": "Jenny E Lee",
-    "branch": "LA",
-    "primary": "Yohan",
-    "secondary": "Jenny",
-    "class_year": 2017
-  },
-  {
-    "name": "Jeremy Kim",
-    "branch": "LA",
-    "primary": "Yohan",
-    "secondary": "Jason",
-    "class_year": 2017
-  },
-  {
-    "name": "Jinwook Jung",
-    "branch": "LA",
-    "primary": "Bonnie",
-    "secondary": "Jenny",
-    "class_year": 2017
-  },
-  {
-    "name": "Jonathan Shin",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Heather",
-    "class_year": 2017
-  },
-  {
-    "name": "Jisu Yu",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2017
-  },
-  {
-    "name": "Junwoo Kim",
-    "branch": "LA",
-    "primary": "Bonnie",
-    "secondary": "Heather",
-    "class_year": 2017
-  },
-  {
-    "name": "Kelly Jihyo Lim",
-    "branch": "LA",
+    "name": "Benjamin Liu",
+    "branch": "AMCHINA",
+    "class_year": "",
     "primary": "Jessica",
-    "secondary": "Jenny",
-    "class_year": 2017
+    "secondary": ""
   },
   {
-    "name": "Korrine Lee",
-    "branch": "LA",
-    "primary": "Heather",
-    "secondary": "Jenny",
-    "class_year": 2017
+    "name": "Jialan Ivy Ma",
+    "branch": "AMCHINA",
+    "class_year": "",
+    "primary": "Anny",
+    "secondary": "Penny"
   },
   {
-    "name": "Leah Cha",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Heather",
-    "class_year": 2017
+    "name": "Chloe Yu",
+    "branch": "AMCHINA",
+    "class_year": "",
+    "primary": "Jessica",
+    "secondary": ""
   },
   {
-    "name": "Michelle Lee",
-    "branch": "LA",
-    "primary": "Yohan",
-    "secondary": "Jessica",
-    "class_year": 2017
+    "name": "David S Park(T)",
+    "branch": "AMCHINA",
+    "class_year": "",
+    "primary": "Jiei",
+    "secondary": ""
   },
   {
-    "name": "Noah Pak",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Heather",
-    "class_year": 2017
+    "name": "Hoelim Sarah Kim",
+    "branch": "AMCHINA",
+    "class_year": "",
+    "primary": "Jessica",
+    "secondary": ""
   },
   {
-    "name": "Penny Youmie Park",
-    "branch": "LA",
-    "primary": "Yohan",
-    "secondary": "Heather",
-    "class_year": 2017
+    "name": "Jaewon Yi",
+    "branch": "AMCHINA",
+    "class_year": "",
+    "primary": "Vincent",
+    "secondary": ""
   },
   {
-    "name": "Ryul Kang",
-    "branch": "LA",
-    "primary": "Yohan",
-    "secondary": "Jessica",
-    "class_year": 2017
+    "name": "Michael Mei",
+    "branch": "AMCHINA",
+    "class_year": "",
+    "primary": "Jay",
+    "secondary": ""
   },
   {
-    "name": "Sophia Bae",
-    "branch": "LA",
-    "primary": "Bonnie",
-    "secondary": "Vincent",
-    "class_year": 2017
+    "name": "Michael Sato",
+    "branch": "AMCHINA",
+    "class_year": "",
+    "primary": "Vincent",
+    "secondary": ""
   },
   {
-    "name": "Sophie Min",
-    "branch": "LA",
-    "primary": "Yohan",
-    "secondary": "Jenny",
-    "class_year": 2017
-  },
-  {
-    "name": "William Son",
-    "branch": "LA",
-    "primary": "Yohan",
-    "secondary": "Jessica",
-    "class_year": 2017
-  },
-  {
-    "name": "Aiden Joon Lee",
-    "branch": "LA",
-    "primary": "Bonnie",
-    "secondary": "Jason",
-    "class_year": 2017
-  },
-  {
-    "name": "Amelia Chun",
-    "branch": "LA",
-    "primary": "Yohan",
-    "secondary": "Jenny",
-    "class_year": 2017
-  },
-  {
-    "name": "Catherine Bae",
-    "branch": "LA",
-    "primary": "Bonnie",
-    "secondary": "Jessica",
-    "class_year": 2017
-  },
-  {
-    "name": "Claire Lee",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Jason",
-    "class_year": 2017
-  },
-  {
-    "name": "Edward Baek",
-    "branch": "LA",
-    "primary": "Bonnie",
-    "secondary": "Jason",
-    "class_year": 2017
-  },
-  {
-    "name": "Evelyn S Kim",
-    "branch": "LA",
-    "primary": "Bonnie",
-    "secondary": "Jay",
-    "class_year": 2017
-  },
-  {
-    "name": "Harold Oh",
-    "branch": "LA",
-    "primary": "IP meeting w/Heather",
-    "secondary": "Heather",
-    "class_year": 2017
-  },
-  {
-    "name": "Joshua Jiwon Lee",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Jason",
-    "class_year": 2017
-  },
-  {
-    "name": "Minseo Kim",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Jessica",
-    "class_year": 2017
-  },
-  {
-    "name": "Nadia Kim",
-    "branch": "LA",
-    "primary": "Bonnie",
-    "secondary": "Jason",
-    "class_year": 2017
-  },
-  {
-    "name": "Nathaniel Junyoung Lee",
-    "branch": "LA",
-    "primary": "Yohan",
-    "secondary": "Jay",
-    "class_year": 2017
-  },
-  {
-    "name": "Oliver King",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Jason",
-    "class_year": 2017
-  },
-  {
-    "name": "Patrick Kim",
-    "branch": "LA",
-    "primary": "Yohan",
-    "secondary": "Yohan",
-    "class_year": 2017
-  },
-  {
-    "name": "Peter Lee",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Yohan",
-    "class_year": 2017
-  },
-  {
-    "name": "Rachel Hamin Cho",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2017
-  },
-  {
-    "name": "Sarah Shen",
-    "branch": "LA",
-    "primary": "Yohan",
-    "secondary": "Jenny",
-    "class_year": 2017
-  },
-  {
-    "name": "Siwoo Michael Lee",
-    "branch": "LA",
-    "primary": "Bonnie",
-    "secondary": "Penny",
-    "class_year": 2017
-  },
-  {
-    "name": "Soeun Nam",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Jenny",
-    "class_year": 2017
-  },
-  {
-    "name": "Tiffany Lee",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2017
-  },
-  {
-    "name": "Yuju Kim",
-    "branch": "LA",
-    "primary": "Bonnie",
-    "secondary": "Heather",
-    "class_year": 2017
-  },
-  {
-    "name": "Aimee Min",
-    "branch": "LA",
-    "primary": "Bonnie",
-    "secondary": "Jenny",
-    "class_year": 2017
-  },
-  {
-    "name": "Brandon Oliver Kim",
-    "branch": "LA",
-    "primary": "Yohan",
-    "secondary": "Jason",
-    "class_year": 2017
-  },
-  {
-    "name": "Daniel Junyi Park",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Vincent",
-    "class_year": 2017
-  },
-  {
-    "name": "Kayden Kim",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Jenny",
-    "class_year": 2017
-  },
-  {
-    "name": "Ryan Cha",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Heather",
-    "class_year": 2017
-  },
-  {
-    "name": "Seojeong Park",
-    "branch": "LA",
-    "primary": "Yohan",
-    "secondary": "Heather",
-    "class_year": 2017
-  },
-  {
-    "name": "Brandon Haechan Lee",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2017
-  },
-  {
-    "name": "Noah Hwang",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2017
-  },
-  {
-    "name": "Justin Park",
-    "branch": "LA",
-    "primary": "Bonnie",
-    "secondary": "Yohan",
-    "class_year": 2017
-  },
-  {
-    "name": "Colin Lee",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Jason",
-    "class_year": 2017
-  },
-  {
-    "name": "Hajin Kim",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Yohan",
-    "class_year": 2017
-  },
-  {
-    "name": "June Jueun Lee",
-    "branch": "LA",
-    "primary": "Bonnie",
-    "secondary": "Yohan",
-    "class_year": 2017
-  },
-  {
-    "name": "Lacy Park",
-    "branch": "LA",
-    "primary": "Yohan",
-    "secondary": "Jason",
-    "class_year": 2017
-  },
-  {
-    "name": "Logan Woojin Lee",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "Jason",
-    "class_year": 2017
-  },
-  {
-    "name": "Thomas Sumin Kim",
-    "branch": "LA",
-    "primary": "Bonnie",
-    "secondary": "Yohan",
-    "class_year": 2017
-  },
-  {
-    "name": "Jayden Park",
-    "branch": "LA",
-    "primary": "Yohan",
-    "secondary": "Jason",
-    "class_year": 2017
-  },
-  {
-    "name": "Justin",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "0",
-    "class_year": 2017
-  },
-  {
-    "name": "Heather",
-    "branch": "LA",
-    "primary": "",
-    "secondary": "12",
-    "class_year": 2017
-  },
-  {
-    "name": "Annie Guo (C)",
-    "branch": "Brea",
-    "primary": "Heather",
-    "secondary": "Heather",
-    "class_year": 2017
-  },
-  {
-    "name": "April Kim",
-    "branch": "Brea",
-    "primary": "Vesper",
-    "secondary": "",
-    "class_year": 2017
-  },
-  {
-    "name": "Aubrey Whang",
-    "branch": "Brea",
-    "primary": "Joshua",
-    "secondary": "Jessica",
-    "class_year": 2017
-  },
-  {
-    "name": "Caitlin Chae (C)",
-    "branch": "Brea",
-    "primary": "Joshua",
-    "secondary": "Jessica",
-    "class_year": 2017
-  },
-  {
-    "name": "Caleb Koh",
-    "branch": "Brea",
-    "primary": "Joseph",
-    "secondary": "Jessica",
-    "class_year": 2017
+    "name": "Seryoung Lee",
+    "branch": "AMCHINA",
+    "class_year": "",
+    "primary": "Jessica",
+    "secondary": "Yohan"
   },
   {
     "name": "Connie Lee",
     "branch": "Brea",
-    "primary": "Justin",
-    "secondary": "Heather",
-    "class_year": 2017
-  },
-  {
-    "name": "David Bae",
-    "branch": "Brea",
-    "primary": "NEW",
-    "secondary": "Jenny",
-    "class_year": 2017
-  },
-  {
-    "name": "Daniel Junseo Lee",
-    "branch": "Brea",
+    "class_year": "",
     "primary": "",
-    "secondary": "Heather",
-    "class_year": 2017
-  },
-  {
-    "name": "Eric Cheung (C)",
-    "branch": "Brea",
-    "primary": "Joshua",
-    "secondary": "Jay",
-    "class_year": 2017
-  },
-  {
-    "name": "Evan Ho",
-    "branch": "Brea",
-    "primary": "",
-    "secondary": "Jay",
-    "class_year": 2017
-  },
-  {
-    "name": "Hanlee Jang",
-    "branch": "Brea",
-    "primary": "Joshua",
-    "secondary": "Jenny",
-    "class_year": 2017
-  },
-  {
-    "name": "Harry Liu (C)",
-    "branch": "Brea",
-    "primary": "Joshua",
-    "secondary": "Vincent",
-    "class_year": 2017
-  },
-  {
-    "name": "Hyewon Choi",
-    "branch": "Brea",
-    "primary": "Yohan",
-    "secondary": "Vincent",
-    "class_year": 2017
-  },
-  {
-    "name": "Jenna Kim",
-    "branch": "Brea",
-    "primary": "Joseph",
-    "secondary": "Vincent",
-    "class_year": 2017
-  },
-  {
-    "name": "Jennie Jeong",
-    "branch": "Brea",
-    "primary": "",
-    "secondary": "Jenny",
-    "class_year": 2017
-  },
-  {
-    "name": "Joshua S Kim",
-    "branch": "Brea",
-    "primary": "",
-    "secondary": "Jay",
-    "class_year": 2017
-  },
-  {
-    "name": "Juwon Ha",
-    "branch": "Brea",
-    "primary": "",
-    "secondary": "jay",
-    "class_year": 2017
-  },
-  {
-    "name": "Kyoung Geon Kim",
-    "branch": "Brea",
-    "primary": "",
-    "secondary": "Jenny",
-    "class_year": 2017
-  },
-  {
-    "name": "Lucy Ariunbayar (I)",
-    "branch": "Brea",
-    "primary": "Anny",
-    "secondary": "Heather",
-    "class_year": 2017
-  },
-  {
-    "name": "Michael Yuan (C)",
-    "branch": "Brea",
-    "primary": "",
-    "secondary": "Anny",
-    "class_year": 2017
-  },
-  {
-    "name": "Minha Oh",
-    "branch": "Brea",
-    "primary": "",
-    "secondary": "Jenny",
-    "class_year": 2017
-  },
-  {
-    "name": "Nathan Jinho Lee",
-    "branch": "Brea",
-    "primary": "Joseph",
-    "secondary": "Jenny",
-    "class_year": 2017
-  },
-  {
-    "name": "Noah Lee",
-    "branch": "Brea",
-    "primary": "Joshua",
-    "secondary": "Vincent",
-    "class_year": 2017
-  },
-  {
-    "name": "Noah Ortiz",
-    "branch": "Brea",
-    "primary": "",
-    "secondary": "Jay",
-    "class_year": 2017
-  },
-  {
-    "name": "Olivia Gi Lee",
-    "branch": "Brea",
-    "primary": "Bonnie",
-    "secondary": "Jessica",
-    "class_year": 2017
-  },
-  {
-    "name": "Samuel Lee",
-    "branch": "Brea",
-    "primary": "Heather",
-    "secondary": "Jessica",
-    "class_year": 2017
-  },
-  {
-    "name": "Scarlett Chang",
-    "branch": "Brea",
-    "primary": "",
-    "secondary": "Jay",
-    "class_year": 2017
-  },
-  {
-    "name": "Seokhyun Daniel Kim",
-    "branch": "Brea",
-    "primary": "Joseph",
-    "secondary": "Jay",
-    "class_year": 2017
-  },
-  {
-    "name": "Shivani Raj (I)",
-    "branch": "Brea",
-    "primary": "Joshua",
-    "secondary": "Jenny",
-    "class_year": 2017
-  },
-  {
-    "name": "Winston Thai (C)",
-    "branch": "Brea",
-    "primary": "",
-    "secondary": "Vincent",
-    "class_year": 2017
-  },
-  {
-    "name": "Aaron Kong",
-    "branch": "Brea",
-    "primary": "Joseph",
-    "secondary": "Jessica",
-    "class_year": 2017
-  },
-  {
-    "name": "Andrew Jung",
-    "branch": "Brea",
-    "primary": "",
-    "secondary": "Jenny",
-    "class_year": 2017
-  },
-  {
-    "name": "Anna Seungjoo Ham",
-    "branch": "Brea",
-    "primary": "",
-    "secondary": "Jenny",
-    "class_year": 2017
-  },
-  {
-    "name": "Annabelle Do (I)",
-    "branch": "Brea",
-    "primary": "Heather",
-    "secondary": "Vincent",
-    "class_year": 2017
-  },
-  {
-    "name": "Brandon Kim",
-    "branch": "Brea",
-    "primary": "Bonnie",
-    "secondary": "Jason",
-    "class_year": 2017
-  },
-  {
-    "name": "Claire An",
-    "branch": "Brea",
-    "primary": "",
-    "secondary": "Jay",
-    "class_year": 2017
-  },
-  {
-    "name": "Dana Choung",
-    "branch": "Brea",
-    "primary": "Bonnie",
-    "secondary": "Jessica",
-    "class_year": 2017
-  },
-  {
-    "name": "Dylan Kim",
-    "branch": "Brea",
-    "primary": "Bonnie",
-    "secondary": "Vesper",
-    "class_year": 2017
-  },
-  {
-    "name": "Goun Choi",
-    "branch": "Brea",
-    "primary": "Joseph",
-    "secondary": "Jessica",
-    "class_year": 2017
-  },
-  {
-    "name": "Hyunjung Oh",
-    "branch": "Brea",
-    "primary": "",
-    "secondary": "Jason",
-    "class_year": 2017
-  },
-  {
-    "name": "Isaac Jang",
-    "branch": "Brea",
-    "primary": "Joseph",
-    "secondary": "Jay",
-    "class_year": 2017
-  },
-  {
-    "name": "Ivan Shin",
-    "branch": "Brea",
-    "primary": "Yohan",
-    "secondary": "Joseph",
-    "class_year": 2017
-  },
-  {
-    "name": "Jingxuan Wang (C)",
-    "branch": "Brea",
-    "primary": "",
-    "secondary": "Jay",
-    "class_year": 2017
-  },
-  {
-    "name": "Jane Kwak",
-    "branch": "Brea",
-    "primary": "Joseph",
-    "secondary": "Jason",
-    "class_year": 2017
-  },
-  {
-    "name": "Kayla Lim",
-    "branch": "Brea",
-    "primary": "Bonnie",
-    "secondary": "Jason",
-    "class_year": 2017
-  },
-  {
-    "name": "Katelyn Lee",
-    "branch": "Brea",
-    "primary": "Yohan",
-    "secondary": "Jay",
-    "class_year": 2017
-  },
-  {
-    "name": "Kevin Hur",
-    "branch": "Brea",
-    "primary": "Joseph",
-    "secondary": "Jay",
-    "class_year": 2017
-  },
-  {
-    "name": "Maxwell Huang (C)",
-    "branch": "Brea",
-    "primary": "Joseph",
-    "secondary": "Vesper",
-    "class_year": 2017
-  },
-  {
-    "name": "Mikel Cho",
-    "branch": "Brea",
-    "primary": "Yohan",
-    "secondary": "Heather",
-    "class_year": 2017
-  },
-  {
-    "name": "Nathan Koo",
-    "branch": "Brea",
-    "primary": "",
-    "secondary": "Vincent",
-    "class_year": 2017
-  },
-  {
-    "name": "Nicole Kim",
-    "branch": "Brea",
-    "primary": "Vesper",
-    "secondary": "Jason",
-    "class_year": 2017
-  },
-  {
-    "name": "Nicole Lee",
-    "branch": "Brea",
-    "primary": "Bonnie",
-    "secondary": "Jason",
-    "class_year": 2017
-  },
-  {
-    "name": "Nicole Y Kim",
-    "branch": "Brea",
-    "primary": "Bonnie",
-    "secondary": "Penny",
-    "class_year": 2017
-  },
-  {
-    "name": "Ryan Jung\nMCU with Jenny starting Jan 2024",
-    "branch": "Brea",
-    "primary": "",
-    "secondary": "Jenny",
-    "class_year": 2017
-  },
-  {
-    "name": "Ryan Shin",
-    "branch": "Brea",
-    "primary": "Joseph",
-    "secondary": "Jay",
-    "class_year": 2017
-  },
-  {
-    "name": "Savannah Chun (C)",
-    "branch": "Brea",
-    "primary": "",
-    "secondary": "Jay",
-    "class_year": 2017
-  },
-  {
-    "name": "Timothy Ahn",
-    "branch": "Brea",
-    "primary": "Penny",
-    "secondary": "Jason",
-    "class_year": 2017
-  },
-  {
-    "name": "Yuxuan Charlie He (C)",
-    "branch": "Brea",
-    "primary": "",
-    "secondary": "JAY",
-    "class_year": 2017
-  },
-  {
-    "name": "Aiden Choi",
-    "branch": "Brea",
-    "primary": "",
-    "secondary": "Jason",
-    "class_year": 2017
-  },
-  {
-    "name": "Celine Park",
-    "branch": "Brea",
-    "primary": "Yohan",
-    "secondary": "Jenny",
-    "class_year": 2017
-  },
-  {
-    "name": "Chanhwee Park",
-    "branch": "Brea",
-    "primary": "Yohan",
-    "secondary": "Vincent",
-    "class_year": 2017
-  },
-  {
-    "name": "Christian Kimlin",
-    "branch": "Brea",
-    "primary": "Yohan",
-    "secondary": "Jay",
-    "class_year": 2017
-  },
-  {
-    "name": "Chris Lee",
-    "branch": "Brea",
-    "primary": "",
-    "secondary": "Jason",
-    "class_year": 2017
-  },
-  {
-    "name": "Curtis Lee",
-    "branch": "Brea",
-    "primary": "Yohan",
-    "secondary": "Jay",
-    "class_year": 2017
-  },
-  {
-    "name": "Eiden Han",
-    "branch": "Brea",
-    "primary": "Bonnie",
-    "secondary": "Jay",
-    "class_year": 2017
-  },
-  {
-    "name": "Elijah Ortiz",
-    "branch": "Brea",
-    "primary": "Yohan",
-    "secondary": "Penny",
-    "class_year": 2017
-  },
-  {
-    "name": "Erin Wu",
-    "branch": "Brea",
-    "primary": "Bonnie",
-    "secondary": "Heather",
-    "class_year": 2017
+    "secondary": "Jun"
   },
   {
     "name": "Hannah Lee",
     "branch": "Brea",
-    "primary": "Yohan",
-    "secondary": "Jason",
-    "class_year": 2017
-  },
-  {
-    "name": "Huiseon Rho",
-    "branch": "Brea",
+    "class_year": 2027,
     "primary": "",
-    "secondary": "",
-    "class_year": 2017
+    "secondary": ""
   },
   {
-    "name": "Irene park",
+    "name": "MaxWell Huang",
     "branch": "Brea",
-    "primary": "Bonnie",
-    "secondary": "Jessica",
-    "class_year": 2017
-  },
-  {
-    "name": "Isaac Chun",
-    "branch": "Brea",
-    "primary": "Bonnie",
-    "secondary": "Jenny",
-    "class_year": 2017
-  },
-  {
-    "name": "Jacob Nahm",
-    "branch": "Brea",
-    "primary": "Bonnie",
-    "secondary": "Jason",
-    "class_year": 2017
-  },
-  {
-    "name": "Jaeyun Park",
-    "branch": "Brea",
-    "primary": "Yohan",
-    "secondary": "Jenny",
-    "class_year": 2017
-  },
-  {
-    "name": "Joanne Kim",
-    "branch": "Brea",
-    "primary": "Bonnie",
-    "secondary": "Jessica",
-    "class_year": 2017
-  },
-  {
-    "name": "Jonathan Oh",
-    "branch": "Brea",
-    "primary": "Bonnie",
-    "secondary": "Jessica",
-    "class_year": 2017
-  },
-  {
-    "name": "Kailyn Min",
-    "branch": "Brea",
-    "primary": "Bonnie",
-    "secondary": "Jay",
-    "class_year": 2017
-  },
-  {
-    "name": "Kaylynn Tak",
-    "branch": "Brea",
-    "primary": "Bonnie",
-    "secondary": "Penny",
-    "class_year": 2017
-  },
-  {
-    "name": "Kenny Song",
-    "branch": "Brea",
-    "primary": "Yohan",
-    "secondary": "Jason",
-    "class_year": 2017
-  },
-  {
-    "name": "Madelyn Hong",
-    "branch": "Brea",
-    "primary": "Yohan",
-    "secondary": "Jason",
-    "class_year": 2017
-  },
-  {
-    "name": "Millie Kwon",
-    "branch": "Brea",
-    "primary": "Yohan",
-    "secondary": "Heather",
-    "class_year": 2017
-  },
-  {
-    "name": "Noah Jinwoo Lee",
-    "branch": "Brea",
-    "primary": "Bonnie",
-    "secondary": "Jessica",
-    "class_year": 2017
-  },
-  {
-    "name": "Ryan Wen(C)",
-    "branch": "Brea",
-    "primary": "Yohan",
-    "secondary": "Jay",
-    "class_year": 2017
-  },
-  {
-    "name": "Steven Bang",
-    "branch": "Brea",
-    "primary": "Bonnie",
-    "secondary": "Jason",
-    "class_year": 2017
-  },
-  {
-    "name": "Sophia Shou Wang(C)",
-    "branch": "Brea",
-    "primary": "Bonnie",
-    "secondary": "Vincent",
-    "class_year": 2017
-  },
-  {
-    "name": "Timothy Choi",
-    "branch": "Brea",
-    "primary": "Yohan",
-    "secondary": "Joseph",
-    "class_year": 2017
-  },
-  {
-    "name": "Timothy Roh",
-    "branch": "Brea",
+    "class_year": 2026,
     "primary": "",
-    "secondary": "",
-    "class_year": 2017
-  },
-  {
-    "name": "Yena Han",
-    "branch": "Brea",
-    "primary": "Penny",
-    "secondary": "Jessica",
-    "class_year": 2017
-  },
-  {
-    "name": "Yuna Ha",
-    "branch": "Brea",
-    "primary": "Yohan",
-    "secondary": "Joseph",
-    "class_year": 2017
-  },
-  {
-    "name": "Annette Lee",
-    "branch": "Brea",
-    "primary": "Bonnie",
-    "secondary": "Jason",
-    "class_year": 2017
-  },
-  {
-    "name": "Audrey Lee",
-    "branch": "Brea",
-    "primary": "Bonnie",
-    "secondary": "Heather",
-    "class_year": 2017
-  },
-  {
-    "name": "Audrey Lenh",
-    "branch": "Brea",
-    "primary": "Yohan",
-    "secondary": "Jessica",
-    "class_year": 2017
-  },
-  {
-    "name": "Benjamin Liu",
-    "branch": "Brea",
-    "primary": "Yohan",
-    "secondary": "Jason",
-    "class_year": 2017
-  },
-  {
-    "name": "Brandon Joonhyuk Kim",
-    "branch": "Brea",
-    "primary": "Bonnie",
-    "secondary": "Jaon",
-    "class_year": 2017
-  },
-  {
-    "name": "Claire Jung",
-    "branch": "Brea",
-    "primary": "",
-    "secondary": "Jason",
-    "class_year": 2017
-  },
-  {
-    "name": "Dayanara Navar",
-    "branch": "Brea",
-    "primary": "Bonnie",
-    "secondary": "Jason",
-    "class_year": 2017
-  },
-  {
-    "name": "Esther Dongah Lee",
-    "branch": "Brea",
-    "primary": "Yohan",
-    "secondary": "Yohan",
-    "class_year": 2017
-  },
-  {
-    "name": "FU FU Aslan Lee (C)",
-    "branch": "Brea",
-    "primary": "Yohan",
-    "secondary": "Heather",
-    "class_year": 2017
-  },
-  {
-    "name": "Gemma Yun",
-    "branch": "Brea",
-    "primary": "Yohan",
-    "secondary": "Jason",
-    "class_year": 2017
-  },
-  {
-    "name": "Heran Lucas Wang (C)",
-    "branch": "Brea",
-    "primary": "",
-    "secondary": "Vincent",
-    "class_year": 2017
-  },
-  {
-    "name": "Jubin Park",
-    "branch": "Brea",
-    "primary": "Yohan",
-    "secondary": "Jason",
-    "class_year": 2017
-  },
-  {
-    "name": "Kenneth Chung",
-    "branch": "Brea",
-    "primary": "Bonnie",
-    "secondary": "Yohan",
-    "class_year": 2017
-  },
-  {
-    "name": "Lucas Wong (C)",
-    "branch": "Brea",
-    "primary": "Bonnie",
-    "secondary": "Jenny",
-    "class_year": 2017
-  },
-  {
-    "name": "Natalia Gustin",
-    "branch": "Brea",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2017
+    "secondary": ""
   },
   {
     "name": "Ryan Lee",
     "branch": "Brea",
+    "class_year": 2028,
+    "primary": "Vincent",
+    "secondary": ""
+  },
+  {
+    "name": "Felicia Do",
+    "branch": "Brea",
+    "class_year": "",
+    "primary": "Jessica",
+    "secondary": ""
+  },
+  {
+    "name": "Andrew Y Shin",
+    "branch": "Brea",
+    "class_year": "",
+    "primary": "Jessica",
+    "secondary": "Joseph Cho"
+  },
+  {
+    "name": "Angelina Zhao",
+    "branch": "Brea",
+    "class_year": "",
+    "primary": "Jessica",
+    "secondary": ""
+  },
+  {
+    "name": "Edward Stephan Lee",
+    "branch": "Brea",
+    "class_year": "",
     "primary": "",
-    "secondary": "Jason",
-    "class_year": 2017
+    "secondary": ""
+  },
+  {
+    "name": "Ethan Sungyoon Kim",
+    "branch": "Brea",
+    "class_year": "",
+    "primary": "Jessica",
+    "secondary": ""
+  },
+  {
+    "name": "Elizabeth Tak",
+    "branch": "Brea",
+    "class_year": "",
+    "primary": "Jay",
+    "secondary": "Joseph Cho"
+  },
+  {
+    "name": "Eunice Goeun Lee",
+    "branch": "Brea",
+    "class_year": "",
+    "primary": "Jessica",
+    "secondary": ""
+  },
+  {
+    "name": "Jessey Chae",
+    "branch": "Brea",
+    "class_year": "",
+    "primary": "",
+    "secondary": ""
+  },
+  {
+    "name": "Jung Jin Hwang",
+    "branch": "Brea",
+    "class_year": "",
+    "primary": "",
+    "secondary": "Joseph Cho"
+  },
+  {
+    "name": "Lina Kim",
+    "branch": "Brea",
+    "class_year": "",
+    "primary": "Jessica",
+    "secondary": ""
+  },
+  {
+    "name": "MCU should be in first Sat",
+    "branch": "Brea",
+    "class_year": "",
+    "primary": "Jenny",
+    "secondary": ""
+  },
+  {
+    "name": "Annie Guo",
+    "branch": "Brea",
+    "class_year": "",
+    "primary": "Heather",
+    "secondary": "Heather"
+  },
+  {
+    "name": "April Kim",
+    "branch": "Brea",
+    "class_year": "",
+    "primary": "",
+    "secondary": ""
+  },
+  {
+    "name": "Aubrey Whang",
+    "branch": "Brea",
+    "class_year": "",
+    "primary": "Jessica",
+    "secondary": ""
+  },
+  {
+    "name": "Caitlin Chae",
+    "branch": "Brea",
+    "class_year": "",
+    "primary": "Jessica",
+    "secondary": ""
+  },
+  {
+    "name": "Caleb Koh",
+    "branch": "Brea",
+    "class_year": "",
+    "primary": "Jessica",
+    "secondary": "Joseph Cho"
+  },
+  {
+    "name": "David Bae",
+    "branch": "Brea",
+    "class_year": "",
+    "primary": "Jenny",
+    "secondary": ""
+  },
+  {
+    "name": "Daniel Junseo Lee",
+    "branch": "Brea",
+    "class_year": "",
+    "primary": "Heather",
+    "secondary": ""
+  },
+  {
+    "name": "Eric Cheung",
+    "branch": "Brea",
+    "class_year": "",
+    "primary": "Jay",
+    "secondary": ""
+  },
+  {
+    "name": "Evan Ho",
+    "branch": "Brea",
+    "class_year": "",
+    "primary": "Jay",
+    "secondary": ""
+  },
+  {
+    "name": "Hanlee Jang",
+    "branch": "Brea",
+    "class_year": "",
+    "primary": "Jenny",
+    "secondary": ""
+  },
+  {
+    "name": "Harry Liu",
+    "branch": "Brea",
+    "class_year": "",
+    "primary": "Vincent",
+    "secondary": ""
+  },
+  {
+    "name": "Hyewon Choi",
+    "branch": "Brea",
+    "class_year": "",
+    "primary": "Vincent",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Jenna Kim",
+    "branch": "Brea",
+    "class_year": "",
+    "primary": "Vincent",
+    "secondary": "Joseph Cho"
+  },
+  {
+    "name": "Jennie Jeong",
+    "branch": "Brea",
+    "class_year": "",
+    "primary": "Jenny",
+    "secondary": ""
+  },
+  {
+    "name": "Joshua S Kim",
+    "branch": "Brea",
+    "class_year": "",
+    "primary": "Jay",
+    "secondary": ""
+  },
+  {
+    "name": "Juwon Ha",
+    "branch": "Brea",
+    "class_year": "",
+    "primary": "Jay",
+    "secondary": ""
+  },
+  {
+    "name": "Kyoung Geon Kim",
+    "branch": "Brea",
+    "class_year": "",
+    "primary": "Jenny",
+    "secondary": ""
+  },
+  {
+    "name": "Lucy Ariunbayar",
+    "branch": "Brea",
+    "class_year": "",
+    "primary": "Heather",
+    "secondary": "Anny"
+  },
+  {
+    "name": "Michael Yuan",
+    "branch": "Brea",
+    "class_year": "",
+    "primary": "Anny",
+    "secondary": ""
+  },
+  {
+    "name": "Minha Oh",
+    "branch": "Brea",
+    "class_year": "",
+    "primary": "Jenny",
+    "secondary": ""
+  },
+  {
+    "name": "Nathan Jinho Lee",
+    "branch": "Brea",
+    "class_year": "",
+    "primary": "Jenny",
+    "secondary": "Joseph Cho"
+  },
+  {
+    "name": "Noah Lee",
+    "branch": "Brea",
+    "class_year": "",
+    "primary": "Vincent",
+    "secondary": ""
+  },
+  {
+    "name": "Noah Ortiz",
+    "branch": "Brea",
+    "class_year": "",
+    "primary": "Jay",
+    "secondary": ""
+  },
+  {
+    "name": "Olivia Gi Lee",
+    "branch": "Brea",
+    "class_year": "",
+    "primary": "Jessica",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Samuel Lee",
+    "branch": "Brea",
+    "class_year": "",
+    "primary": "Jessica",
+    "secondary": "Heather"
+  },
+  {
+    "name": "Scarlett Chang",
+    "branch": "Brea",
+    "class_year": "",
+    "primary": "Jay",
+    "secondary": ""
+  },
+  {
+    "name": "Seokhyun Daniel Kim",
+    "branch": "Brea",
+    "class_year": "",
+    "primary": "Jay",
+    "secondary": "Joseph Cho"
+  },
+  {
+    "name": "Shivani Raj",
+    "branch": "Brea",
+    "class_year": "",
+    "primary": "Jenny",
+    "secondary": ""
+  },
+  {
+    "name": "Winston Thai",
+    "branch": "Brea",
+    "class_year": "",
+    "primary": "Vincent",
+    "secondary": ""
+  },
+  {
+    "name": "Aaron Kong",
+    "branch": "Brea",
+    "class_year": 2026,
+    "primary": "Jessica",
+    "secondary": "Joseph Cho"
+  },
+  {
+    "name": "Andrew Jung",
+    "branch": "Brea",
+    "class_year": 2026,
+    "primary": "Jenny",
+    "secondary": ""
+  },
+  {
+    "name": "Anna Seungjoo Ham",
+    "branch": "Brea",
+    "class_year": 2026,
+    "primary": "Jenny",
+    "secondary": ""
+  },
+  {
+    "name": "Annabelle Do",
+    "branch": "Brea",
+    "class_year": 2026,
+    "primary": "Vincent",
+    "secondary": "Heather"
+  },
+  {
+    "name": "Brandon Kim",
+    "branch": "Brea",
+    "class_year": 2026,
+    "primary": "Jason",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Claire An",
+    "branch": "Brea",
+    "class_year": 2026,
+    "primary": "Jay",
+    "secondary": ""
+  },
+  {
+    "name": "Dana Choung",
+    "branch": "Brea",
+    "class_year": 2026,
+    "primary": "Jessica",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Dylan Kim",
+    "branch": "Brea",
+    "class_year": 2026,
+    "primary": "",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Goun Choi",
+    "branch": "Brea",
+    "class_year": 2026,
+    "primary": "Jessica",
+    "secondary": "Joseph Cho"
+  },
+  {
+    "name": "Hyunjung Oh",
+    "branch": "Brea",
+    "class_year": 2026,
+    "primary": "Jason",
+    "secondary": ""
+  },
+  {
+    "name": "Isaac Jang",
+    "branch": "Brea",
+    "class_year": 2026,
+    "primary": "Jay",
+    "secondary": "Joseph Cho"
+  },
+  {
+    "name": "Ivan Shin",
+    "branch": "Brea",
+    "class_year": 2026,
+    "primary": "Joseph Cho",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Jingxuan Wang",
+    "branch": "Brea",
+    "class_year": 2026,
+    "primary": "Jay",
+    "secondary": ""
+  },
+  {
+    "name": "Jane Kwak",
+    "branch": "Brea",
+    "class_year": 2026,
+    "primary": "Jason",
+    "secondary": "Joseph Cho"
+  },
+  {
+    "name": "Kayla Lim",
+    "branch": "Brea",
+    "class_year": 2026,
+    "primary": "Jason",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Katelyn Lee",
+    "branch": "Brea",
+    "class_year": 2026,
+    "primary": "Jay",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Kevin Hur",
+    "branch": "Brea",
+    "class_year": 2026,
+    "primary": "Jay",
+    "secondary": "Joseph Cho"
+  },
+  {
+    "name": "Mikel Cho",
+    "branch": "Brea",
+    "class_year": 2026,
+    "primary": "Heather",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Nathan Koo",
+    "branch": "Brea",
+    "class_year": 2026,
+    "primary": "Vincent",
+    "secondary": ""
+  },
+  {
+    "name": "Nicole Kim",
+    "branch": "Brea",
+    "class_year": 2026,
+    "primary": "Jason",
+    "secondary": ""
+  },
+  {
+    "name": "Nicole Lee",
+    "branch": "Brea",
+    "class_year": 2026,
+    "primary": "Jason",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Nicole Y Kim",
+    "branch": "Brea",
+    "class_year": 2026,
+    "primary": "Penny",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "MCU with Jenny starting Jan 2024",
+    "branch": "Brea",
+    "class_year": 2026,
+    "primary": "Jenny",
+    "secondary": ""
+  },
+  {
+    "name": "Ryan Shin",
+    "branch": "Brea",
+    "class_year": 2026,
+    "primary": "Jay",
+    "secondary": "Joseph Cho"
+  },
+  {
+    "name": "Savannah Chun",
+    "branch": "Brea",
+    "class_year": 2026,
+    "primary": "Jay",
+    "secondary": ""
+  },
+  {
+    "name": "Timothy Ahn",
+    "branch": "Brea",
+    "class_year": 2026,
+    "primary": "Jason",
+    "secondary": "Penny"
+  },
+  {
+    "name": "Yuxuan Charlie He",
+    "branch": "Brea",
+    "class_year": 2026,
+    "primary": "Jay",
+    "secondary": ""
+  },
+  {
+    "name": "Aiden Choi",
+    "branch": "Brea",
+    "class_year": 2027,
+    "primary": "Jason",
+    "secondary": ""
+  },
+  {
+    "name": "Alice Chae",
+    "branch": "Brea",
+    "class_year": 2027,
+    "primary": "Jenny",
+    "secondary": ""
+  },
+  {
+    "name": "Alison Li",
+    "branch": "Brea",
+    "class_year": 2027,
+    "primary": "Jenny",
+    "secondary": ""
+  },
+  {
+    "name": "Celine Park",
+    "branch": "Brea",
+    "class_year": 2027,
+    "primary": "Jenny",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Chanhwee Park",
+    "branch": "Brea",
+    "class_year": 2027,
+    "primary": "Vincent",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Christian Kimlin",
+    "branch": "Brea",
+    "class_year": 2027,
+    "primary": "Jay",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Chris Lee",
+    "branch": "Brea",
+    "class_year": 2027,
+    "primary": "Jason",
+    "secondary": ""
+  },
+  {
+    "name": "Curtis Lee",
+    "branch": "Brea",
+    "class_year": 2027,
+    "primary": "Jay",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Eiden Han",
+    "branch": "Brea",
+    "class_year": 2027,
+    "primary": "Jay",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Elijah Ortiz",
+    "branch": "Brea",
+    "class_year": 2027,
+    "primary": "Penny",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Erin Wu",
+    "branch": "Brea",
+    "class_year": 2027,
+    "primary": "Heather",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Huiseon Rho",
+    "branch": "Brea",
+    "class_year": 2027,
+    "primary": "",
+    "secondary": ""
+  },
+  {
+    "name": "Irene park",
+    "branch": "Brea",
+    "class_year": 2027,
+    "primary": "Jessica",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Isaac Chun",
+    "branch": "Brea",
+    "class_year": 2027,
+    "primary": "Jenny",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Jacob Nahm",
+    "branch": "Brea",
+    "class_year": 2027,
+    "primary": "Jason",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Jaeyun Park",
+    "branch": "Brea",
+    "class_year": 2027,
+    "primary": "Jenny",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Joanne Kim",
+    "branch": "Brea",
+    "class_year": 2027,
+    "primary": "Jessica",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Jonathan Oh",
+    "branch": "Brea",
+    "class_year": 2027,
+    "primary": "Jessica",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Kailyn Min",
+    "branch": "Brea",
+    "class_year": 2027,
+    "primary": "Jay",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Kaylynn Tak",
+    "branch": "Brea",
+    "class_year": 2027,
+    "primary": "Penny",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Kenny Song",
+    "branch": "Brea",
+    "class_year": 2027,
+    "primary": "Jason",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Madelyn Hong",
+    "branch": "Brea",
+    "class_year": 2027,
+    "primary": "Jason",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Michelle Seo",
+    "branch": "Brea",
+    "class_year": 2027,
+    "primary": "Jay",
+    "secondary": ""
+  },
+  {
+    "name": "Millie Kwon",
+    "branch": "Brea",
+    "class_year": 2027,
+    "primary": "Heather",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Noah Jinwoo Lee",
+    "branch": "Brea",
+    "class_year": 2027,
+    "primary": "Jessica",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Ryan Wen",
+    "branch": "Brea",
+    "class_year": 2027,
+    "primary": "Jay",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Steven Bang",
+    "branch": "Brea",
+    "class_year": 2027,
+    "primary": "Jason",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Sophia Shou Wang",
+    "branch": "Brea",
+    "class_year": 2027,
+    "primary": "Vincent",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Timothy Choi",
+    "branch": "Brea",
+    "class_year": 2027,
+    "primary": "Joseph Cho",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Timothy Roh",
+    "branch": "Brea",
+    "class_year": 2027,
+    "primary": "",
+    "secondary": ""
+  },
+  {
+    "name": "Yena Han",
+    "branch": "Brea",
+    "class_year": 2027,
+    "primary": "Jessica",
+    "secondary": "Penny"
+  },
+  {
+    "name": "Yuna Ha",
+    "branch": "Brea",
+    "class_year": 2027,
+    "primary": "Joseph Cho",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Annette Lee",
+    "branch": "Brea",
+    "class_year": 2028,
+    "primary": "Jason",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Audrey Lee",
+    "branch": "Brea",
+    "class_year": 2028,
+    "primary": "Heather",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Audrey Lenh",
+    "branch": "Brea",
+    "class_year": 2028,
+    "primary": "Jessica",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Benjamin Liu",
+    "branch": "Brea",
+    "class_year": 2028,
+    "primary": "Jason",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Brandon Joonhyuk Kim",
+    "branch": "Brea",
+    "class_year": 2028,
+    "primary": "",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Claire Jung",
+    "branch": "Brea",
+    "class_year": 2028,
+    "primary": "Jason",
+    "secondary": ""
+  },
+  {
+    "name": "Dayanara Navar",
+    "branch": "Brea",
+    "class_year": 2028,
+    "primary": "Jason",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Dylan Austin Wang",
+    "branch": "Brea",
+    "class_year": 2028,
+    "primary": "Jason",
+    "secondary": ""
+  },
+  {
+    "name": "Esther Dongah Lee",
+    "branch": "Brea",
+    "class_year": 2028,
+    "primary": "Yohan",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "FU FU Aslan Lee",
+    "branch": "Brea",
+    "class_year": 2028,
+    "primary": "Heather",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Gemma Yun",
+    "branch": "Brea",
+    "class_year": 2028,
+    "primary": "Jason",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Heran Lucas Wang",
+    "branch": "Brea",
+    "class_year": 2028,
+    "primary": "Vincent",
+    "secondary": ""
+  },
+  {
+    "name": "Jiyoon Byun",
+    "branch": "Brea",
+    "class_year": 2028,
+    "primary": "Jenny",
+    "secondary": ""
+  },
+  {
+    "name": "Jubin Park",
+    "branch": "Brea",
+    "class_year": 2028,
+    "primary": "Jason",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Kenneth Chung",
+    "branch": "Brea",
+    "class_year": 2028,
+    "primary": "Yohan",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Lucas Wong",
+    "branch": "Brea",
+    "class_year": 2028,
+    "primary": "Jenny",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Natalia Gustin",
+    "branch": "Brea",
+    "class_year": 2028,
+    "primary": "",
+    "secondary": ""
+  },
+  {
+    "name": "The service starts on 06/2026.",
+    "branch": "Brea",
+    "class_year": 2028,
+    "primary": "Vincent",
+    "secondary": ""
   },
   {
     "name": "Sarah Lee",
     "branch": "Brea",
-    "primary": "Bonnie",
-    "secondary": "Jay",
-    "class_year": 2017
+    "class_year": 2028,
+    "primary": "Jay",
+    "secondary": "Bonnie"
   },
   {
     "name": "Wilson Thai",
     "branch": "Brea",
-    "primary": "Yohan",
-    "secondary": "Bonnie",
-    "class_year": 2017
-  },
-  {
-    "name": "Yidao Storm Zhu\uff08\uff23\uff09",
-    "branch": "Brea",
+    "class_year": 2028,
     "primary": "Bonnie",
-    "secondary": "Jay",
-    "class_year": 2017
+    "secondary": "Yohan"
   },
   {
-    "name": "Yiyang Sun(C)",
+    "name": "Yidao Storm Zhu",
     "branch": "Brea",
-    "primary": "",
-    "secondary": "Heather",
-    "class_year": 2017
+    "class_year": 2028,
+    "primary": "Jay",
+    "secondary": "Bonnie"
   },
   {
-    "name": "Yusen Li (C)",
+    "name": "Yiyang Sun",
     "branch": "Brea",
-    "primary": "Yohan",
-    "secondary": "Vincent",
-    "class_year": 2017
+    "class_year": 2028,
+    "primary": "Heather",
+    "secondary": ""
+  },
+  {
+    "name": "Yusen Li",
+    "branch": "Brea",
+    "class_year": 2028,
+    "primary": "Vincent",
+    "secondary": "Yohan"
   },
   {
     "name": "Zachary Lim",
     "branch": "Brea",
-    "primary": "",
-    "secondary": "Yohan",
-    "class_year": 2017
+    "class_year": 2028,
+    "primary": "Yohan",
+    "secondary": ""
   },
   {
     "name": "Ashley Yehjin Kim",
     "branch": "Brea",
-    "primary": "",
-    "secondary": "Heather",
-    "class_year": 2017
+    "class_year": 2029,
+    "primary": "Heather",
+    "secondary": ""
   },
   {
     "name": "Bella Lee",
     "branch": "Brea",
-    "primary": "Bonnie",
-    "secondary": "Yohan",
-    "class_year": 2017
+    "class_year": 2029,
+    "primary": "Yohan",
+    "secondary": "Bonnie"
   },
   {
     "name": "Brennan McCarthy",
     "branch": "Brea",
-    "primary": "",
-    "secondary": "Jenny",
-    "class_year": 2017
+    "class_year": 2029,
+    "primary": "Jenny",
+    "secondary": ""
   },
   {
     "name": "Caleb Swineford",
     "branch": "Brea",
-    "primary": "Yohan",
-    "secondary": "Jason",
-    "class_year": 2017
+    "class_year": 2029,
+    "primary": "Jason",
+    "secondary": "Yohan"
   },
   {
     "name": "Claire Byun",
     "branch": "Brea",
-    "primary": "Bonnie",
-    "secondary": "Yohan",
-    "class_year": 2017
+    "class_year": 2029,
+    "primary": "Yohan",
+    "secondary": "Bonnie"
   },
   {
     "name": "Elizabeth Han",
     "branch": "Brea",
-    "primary": "Yohan",
-    "secondary": "Jason",
-    "class_year": 2017
+    "class_year": 2029,
+    "primary": "Jason",
+    "secondary": "Yohan"
   },
   {
     "name": "Ethan Shon-Kim",
     "branch": "Brea",
-    "primary": "Bonnie",
-    "secondary": "Jason",
-    "class_year": 2017
+    "class_year": 2029,
+    "primary": "Jason",
+    "secondary": "Bonnie"
   },
   {
     "name": "Irene Cho",
     "branch": "Brea",
-    "primary": "",
-    "secondary": "Jenny",
-    "class_year": 2017
+    "class_year": 2029,
+    "primary": "Jenny",
+    "secondary": ""
   },
   {
     "name": "Jayden Lee",
     "branch": "Brea",
-    "primary": "",
-    "secondary": "Yohan",
-    "class_year": 2017
+    "class_year": 2029,
+    "primary": "Yohan",
+    "secondary": ""
   },
   {
     "name": "Kennedy Cho",
     "branch": "Brea",
-    "primary": "",
-    "secondary": "Jason",
-    "class_year": 2017
+    "class_year": 2029,
+    "primary": "Jason",
+    "secondary": ""
   },
   {
     "name": "Natalie Weerts",
     "branch": "Brea",
-    "primary": "",
-    "secondary": "Jason",
-    "class_year": 2017
+    "class_year": 2029,
+    "primary": "Jason",
+    "secondary": ""
   },
   {
     "name": "Ryan Joowon lee",
     "branch": "Brea",
-    "primary": "Yohan",
-    "secondary": "Jay",
-    "class_year": 2017
+    "class_year": 2029,
+    "primary": "Jay",
+    "secondary": "Yohan"
   },
   {
     "name": "Zoe Hwang",
     "branch": "Brea",
+    "class_year": 2029,
+    "primary": "Jason",
+    "secondary": ""
+  },
+  {
+    "name": "Irene Zion Yi",
+    "branch": "Brea",
+    "class_year": 2030,
     "primary": "",
-    "secondary": "Jason",
-    "class_year": 2017
+    "secondary": ""
+  },
+  {
+    "name": "Brandon Shin",
+    "branch": "Brea",
+    "class_year": 2030,
+    "primary": "",
+    "secondary": ""
+  },
+  {
+    "name": "Elise Song",
+    "branch": "Brea",
+    "class_year": 2030,
+    "primary": "Jay",
+    "secondary": ""
   },
   {
     "name": "Jack Yoon",
     "branch": "Brea",
-    "primary": "Bonnie",
-    "secondary": "Jason",
-    "class_year": 2017
+    "class_year": 2030,
+    "primary": "Jason",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Leah Yeh-In Kim",
+    "branch": "Brea",
+    "class_year": 2030,
+    "primary": "",
+    "secondary": ""
   },
   {
     "name": "Nathaniel Kim",
     "branch": "Brea",
-    "primary": "Heather",
-    "secondary": "Jason",
-    "class_year": 2017
+    "class_year": 2031,
+    "primary": "Jason",
+    "secondary": "Heather"
   },
   {
-    "name": "Aaron Jun",
-    "branch": "Irvine",
+    "name": "Leonardo Kim",
+    "branch": "Brea",
+    "class_year": "",
     "primary": "",
-    "secondary": "Bonnie",
-    "class_year": 2018
-  },
-  {
-    "name": "Alexis Lee",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Alice Qi (C)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Andy Ruizhe Zhang (C)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Vesper",
-    "class_year": 2018
-  },
-  {
-    "name": "Andy Wenxin Zhang (C)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Joshua",
-    "class_year": 2018
-  },
-  {
-    "name": "Anna Yang (C)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Arron Shen (C)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Ashley Yoonseo Shin",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Ananya Vuppula (I)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Vesper",
-    "class_year": 2018
-  },
-  {
-    "name": "Aaron Zhu (C)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Brenden Wang  (C)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Caleb Shin",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Joshua",
-    "class_year": 2018
-  },
-  {
-    "name": "Christian Jeng (C)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Joseph",
-    "class_year": 2018
-  },
-  {
-    "name": "Christine Li (C)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Christy Zihui Xu (C)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Vesper",
-    "class_year": 2018
-  },
-  {
-    "name": "Claire Jin (C)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Anny",
-    "class_year": 2018
-  },
-  {
-    "name": "Courtney Park",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Dorina Lin (C)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Joseph",
-    "class_year": 2018
-  },
-  {
-    "name": "David Chang",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Dhara Hansalia (I)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Eric Wang",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Joseph",
-    "class_year": 2018
-  },
-  {
-    "name": "Evana Thomson (I)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Evelyn Bekker (M)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Gavin Chen (C)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Joshua",
-    "class_year": 2018
-  },
-  {
-    "name": "Geon Yoon",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Joshua",
-    "class_year": 2018
-  },
-  {
-    "name": "Grace D Jin",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Justin",
-    "class_year": 2018
-  },
-  {
-    "name": "Haeeun Yun",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Hansen Shao (C)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Helen Zhang (C)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Hwajeong You\n(Essay only Sevice)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Hyeonmin Seo",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Joshua",
-    "class_year": 2018
-  },
-  {
-    "name": "Hyunbin So",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Isabella Ni (C)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Penny",
-    "class_year": 2018
-  },
-  {
-    "name": "Jaden Kim",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Jaewon Kim",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Joshua",
-    "class_year": 2018
-  },
-  {
-    "name": "Jason Park",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Jayne Kim",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Joshua",
-    "class_year": 2018
-  },
-  {
-    "name": "Jerry Zidong Hu (C)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Joseph",
-    "class_year": 2018
-  },
-  {
-    "name": "Jiann Kim",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Jimmy Tang (C)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Joshua",
-    "class_year": 2018
-  },
-  {
-    "name": "Joseph Yae Kim",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Juho Yoon",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Justin Joonhee Park",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Kyle Chang",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Lena Park",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Lily Su (C)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Joshua",
-    "class_year": 2018
-  },
-  {
-    "name": "Logan Lee",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Joshua",
-    "class_year": 2018
-  },
-  {
-    "name": "Lucas Shim (E)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Joseph",
-    "class_year": 2018
-  },
-  {
-    "name": "Mason Chen (C)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Miles Hexun (C)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Mingi Hong",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Joshua",
-    "class_year": 2018
-  },
-  {
-    "name": "Minseo Lim",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Joshua",
-    "class_year": 2018
-  },
-  {
-    "name": "Nagyung Cho",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Nathan Lee",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Oneal Wang (C)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Joshua",
-    "class_year": 2018
-  },
-  {
-    "name": "Prema Yugala (I)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Reo Huh",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Ryan Yoo",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Samuel Choi",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Bonnie",
-    "class_year": 2018
-  },
-  {
-    "name": "Seo Hyun An",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Joshua",
-    "class_year": 2018
-  },
-  {
-    "name": "Seryoung Lee \n(AM CHINA)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Yohan",
-    "class_year": 2018
-  },
-  {
-    "name": "Serena Ren (C)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Sophia Huang (C)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Joshua",
-    "class_year": 2018
-  },
-  {
-    "name": "Steven Cheng (C)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Sungbin Lee",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Joshua",
-    "class_year": 2018
-  },
-  {
-    "name": "Tiffany Chen (C)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "William Yifan Wang (C)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Bonnie",
-    "class_year": 2018
-  },
-  {
-    "name": "Yeon Seo Choi",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Yoonho Marcus Kim",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Youle Wang (C)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Bonnie",
-    "class_year": 2018
-  },
-  {
-    "name": "Yue (Celina) Yang (C)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Aastine Bastine (I)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Joseph",
-    "class_year": 2018
-  },
-  {
-    "name": "Aaron Kong",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Abraham Cho",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Yohan",
-    "class_year": 2018
-  },
-  {
-    "name": "Alisha Kim",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Alison Ko",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Vesper",
-    "class_year": 2018
-  },
-  {
-    "name": "Abinav Santhosh Neyyar (I)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Yohan",
-    "class_year": 2018
-  },
-  {
-    "name": "Andrew Kao (C)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Andrew Oh",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Anna Lynch",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Yohan",
-    "class_year": 2018
-  },
-  {
-    "name": "Bethany Kim",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Joseph",
-    "class_year": 2018
-  },
-  {
-    "name": "Brendan Chang (C)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Vesper",
-    "class_year": 2018
-  },
-  {
-    "name": "Brianna Liu",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "NO GPAM",
-    "class_year": 2018
-  },
-  {
-    "name": "Carson Gan (C)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Chloe Son",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Bonnie",
-    "class_year": 2018
-  },
-  {
-    "name": "Charlotte Yoh (C)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Joshua",
-    "class_year": 2018
-  },
-  {
-    "name": "Cooper Ren (C)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Bonnie",
-    "class_year": 2018
-  },
-  {
-    "name": "David Wong (C)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Joseph",
-    "class_year": 2018
-  },
-  {
-    "name": "Elizabeth Soyoon Chang",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Elizabeth Jung",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Vesper",
-    "class_year": 2018
-  },
-  {
-    "name": "Eugene Ban",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Evan Zhu (C)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Evelyn Chun",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Bonnie",
-    "class_year": 2018
-  },
-  {
-    "name": "Goeun Katie Choi",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Bonnie",
-    "class_year": 2018
-  },
-  {
-    "name": "Grace Chang",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Hailey Kim",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Penny",
-    "class_year": 2018
-  },
-  {
-    "name": "Hyeyun Rhim",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Vesper",
-    "class_year": 2018
-  },
-  {
-    "name": "Hyunsoo Kang",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Joseph",
-    "class_year": 2018
-  },
-  {
-    "name": "Julian Stockton (C)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Jack Dong (C)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Vesper",
-    "class_year": 2018
-  },
-  {
-    "name": "Jackson (XiangJun) Lyu (C)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Bonnie",
-    "class_year": 2018
-  },
-  {
-    "name": "Jaehee Park",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Joseph",
-    "class_year": 2018
-  },
-  {
-    "name": "Jaein Ryu",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Vesper",
-    "class_year": 2018
-  },
-  {
-    "name": "Jake Kwon",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Joseph",
-    "class_year": 2018
-  },
-  {
-    "name": "James Lee",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Jinyuan James Zhang (C)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Bonnie",
-    "class_year": 2018
-  },
-  {
-    "name": "Jingxing William Chen (C)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Joseph",
-    "class_year": 2018
-  },
-  {
-    "name": "Jiwon Kim",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Yohan",
-    "class_year": 2018
-  },
-  {
-    "name": "Jonathan Ye (C)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Jooha Bella Lee",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Julia Yuwen (C)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Junha Hwang",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Yohan",
-    "class_year": 2018
-  },
-  {
-    "name": "Kaden Kwak",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Kayla Gao (C)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Vesper",
-    "class_year": 2018
-  },
-  {
-    "name": "Lucy Liu (C)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Megan Chou (C)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Vesper",
-    "class_year": 2018
-  },
-  {
-    "name": "Matthew Li (C)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Bonnie",
-    "class_year": 2018
-  },
-  {
-    "name": "Minjee Kim",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Yohan",
-    "class_year": 2018
-  },
-  {
-    "name": "Minseo Choi",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Nina Huang (C)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Peter Choi",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Ryan Shi (C)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Joseph",
-    "class_year": 2018
-  },
-  {
-    "name": "Shangqiu Li (C)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Soeun Lee",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Sol Hwang",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Sophia H Ding (C)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Yohan",
-    "class_year": 2018
-  },
-  {
-    "name": "Sophia Han",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Stephan moses an",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Steven Kim",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Susan Kim [canceled her meetings all per mom's request]",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Sydney Shen (C)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Bonnie",
-    "class_year": 2018
-  },
-  {
-    "name": "Taeeun Lee\n(Service HOLD)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Trinity Chen (C)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Vera Yang (C)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Joseph",
-    "class_year": 2018
-  },
-  {
-    "name": "Yejoon Phillip Jang",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Yohan",
-    "class_year": 2018
-  },
-  {
-    "name": "Yeowon Yoon",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Yesung Peter Jang",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Yohan",
-    "class_year": 2018
-  },
-  {
-    "name": "Yuna Sun",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Joseph",
-    "class_year": 2018
-  },
-  {
-    "name": "Aaron Lee",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Alex Jiwon Hwang",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
+    "secondary": ""
   },
   {
     "name": "Andy Lee",
     "branch": "Irvine",
-    "primary": "",
-    "secondary": "Bonnie",
-    "class_year": 2018
+    "class_year": 2027,
+    "primary": "Vincent",
+    "secondary": "Jiei"
   },
   {
-    "name": "Avery Hexun (C)",
+    "name": "Aaron Lee",
     "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
+    "class_year": 2027,
+    "primary": "Jenny",
+    "secondary": ""
   },
   {
-    "name": "Cailyn Lee",
+    "name": "Emily Yue Yuan",
     "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
+    "class_year": "",
+    "primary": "Jessica",
+    "secondary": "Anny"
   },
   {
-    "name": "Chloe Park",
+    "name": "Haiting Wang",
     "branch": "Irvine",
-    "primary": "",
-    "secondary": "Yohan",
-    "class_year": 2018
+    "class_year": "",
+    "primary": "Anny",
+    "secondary": ""
   },
   {
-    "name": "Chenyuan Anna Zhao (C)",
+    "name": "Bill Zeyu Li",
     "branch": "Irvine",
-    "primary": "",
-    "secondary": "Bonnie",
-    "class_year": 2018
+    "class_year": "",
+    "primary": "Anny",
+    "secondary": ""
   },
   {
-    "name": "Claire Kyuyoung Kim",
+    "name": "Benjamin Liu",
     "branch": "Irvine",
-    "primary": "",
-    "secondary": "Yohan",
-    "class_year": 2018
+    "class_year": "",
+    "primary": "Jessica",
+    "secondary": ""
   },
   {
-    "name": "Doreen Yoon",
+    "name": "Jialan Ivy Ma",
     "branch": "Irvine",
-    "primary": "",
-    "secondary": "Bonnie",
-    "class_year": 2018
-  },
-  {
-    "name": "Evangeline Kao (C)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Bonnie",
-    "class_year": 2018
-  },
-  {
-    "name": "Gianna Kim",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Gunwon Kim",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Bonnie",
-    "class_year": 2018
-  },
-  {
-    "name": "Gyumin Benjamin Kim",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Yohan",
-    "class_year": 2018
-  },
-  {
-    "name": "Hannah Oh (Service DONE)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Heechan Choi",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Bonnie",
-    "class_year": 2018
-  },
-  {
-    "name": "Ian Choi",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Bonnie",
-    "class_year": 2018
-  },
-  {
-    "name": "Irene Shin",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Yohan",
-    "class_year": 2018
-  },
-  {
-    "name": "Jenny Nguyen (V)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Bonnie",
-    "class_year": 2018
-  },
-  {
-    "name": "Jiwoo Chung",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Yohan",
-    "class_year": 2018
-  },
-  {
-    "name": "Jiwon Chung",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Penny",
-    "class_year": 2018
-  },
-  {
-    "name": "Jubeen Yoon",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Bonnie",
-    "class_year": 2018
-  },
-  {
-    "name": "Junwoo Daniel Yoon",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Yohan",
-    "class_year": 2018
-  },
-  {
-    "name": "Juyeon Kim",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Bonnie",
-    "class_year": 2018
-  },
-  {
-    "name": "Katrina Liu (C)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Kiyan Parizi (I)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "(Service HOLD)\nLily Liu (c)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Madison Lee",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Yohan",
-    "class_year": 2018
-  },
-  {
-    "name": "Michelle Kim",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Bonnie",
-    "class_year": 2018
-  },
-  {
-    "name": "Minjun Choi",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Joseph",
-    "class_year": 2018
-  },
-  {
-    "name": "Minseong Kim",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Yohan",
-    "class_year": 2018
-  },
-  {
-    "name": "Naomi Huang (C)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Nanxin Nancy Sun (C)",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
-  },
-  {
-    "name": "Natalie Oh",
-    "branch": "Irvine",
-    "primary": "",
-    "secondary": "Heather",
-    "class_year": 2018
+    "class_year": "",
+    "primary": "Anny",
+    "secondary": "Penny"
   },
   {
     "name": "Olivia Lee",
     "branch": "Irvine",
-    "primary": "",
-    "secondary": "Bonnie",
-    "class_year": 2018
+    "class_year": 2027,
+    "primary": "Anny",
+    "secondary": ""
   },
   {
-    "name": "Peilin Annie Qiu (C)",
+    "name": "Chloe Yu",
     "branch": "Irvine",
-    "primary": "",
-    "secondary": "Bonnie",
-    "class_year": 2018
+    "class_year": "",
+    "primary": "Jessica",
+    "secondary": ""
   },
   {
-    "name": "Rachel Kim",
+    "name": "David S Park(T)",
     "branch": "Irvine",
-    "primary": "",
-    "secondary": "Bonnie",
-    "class_year": 2018
+    "class_year": "",
+    "primary": "Jiei",
+    "secondary": ""
   },
   {
-    "name": "Rachelle Jang",
+    "name": "Hoelim Sarah Kim",
     "branch": "Irvine",
-    "primary": "",
-    "secondary": "Jessica",
-    "class_year": 2018
+    "class_year": "",
+    "primary": "Jessica",
+    "secondary": ""
   },
   {
-    "name": "Runying Chen (C)",
+    "name": "Jaewon Yi",
     "branch": "Irvine",
-    "primary": "",
-    "secondary": "Yohan",
-    "class_year": 2018
+    "class_year": "",
+    "primary": "Vincent",
+    "secondary": ""
   },
   {
-    "name": "Stewart Ma (C)",
+    "name": "Michael Mei",
     "branch": "Irvine",
-    "primary": "",
-    "secondary": "Penny",
-    "class_year": 2018
+    "class_year": "",
+    "primary": "Jay",
+    "secondary": ""
   },
   {
-    "name": "Sabrina Melissa Li Staats (C)",
+    "name": "Michael Sato",
     "branch": "Irvine",
-    "primary": "",
-    "secondary": "Penny",
-    "class_year": 2018
+    "class_year": "",
+    "primary": "Vincent",
+    "secondary": ""
   },
   {
-    "name": "Vivian Hee Kim",
+    "name": "Nina But",
     "branch": "Irvine",
-    "primary": "",
-    "secondary": "Yohan",
-    "class_year": 2018
+    "class_year": 2026,
+    "primary": "Jessica",
+    "secondary": ""
   },
   {
-    "name": "Yejoon Choi",
+    "name": "Aaron Jun",
     "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
+    "class_year": "",
+    "primary": "Vincent",
+    "secondary": "Bonnie"
   },
   {
-    "name": "Yiyang Tan (C)",
+    "name": "Alexis Lee",
     "branch": "Irvine",
-    "primary": "",
-    "secondary": "Yohan",
-    "class_year": 2018
+    "class_year": "",
+    "primary": "Jenny",
+    "secondary": ""
   },
   {
-    "name": "Ying Camil Huang (C)",
+    "name": "Alice Qi",
     "branch": "Irvine",
-    "primary": "",
-    "secondary": "Penny",
-    "class_year": 2018
+    "class_year": "",
+    "primary": "Jay",
+    "secondary": ""
   },
   {
-    "name": "Andrew Zhang (C)",
+    "name": "Andy Ruizhe Zhang",
     "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
+    "class_year": "",
+    "primary": "Anny",
+    "secondary": ""
   },
   {
-    "name": "Annie Zhao (C)",
+    "name": "Andy Wenxin Zhang",
     "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
+    "class_year": "",
+    "primary": "Anny",
+    "secondary": ""
   },
   {
-    "name": "Daniel Taejoon Kim",
+    "name": "Angela Wu",
     "branch": "Irvine",
+    "class_year": "",
     "primary": "",
-    "secondary": "Bonnie",
-    "class_year": 2018
+    "secondary": "Bonnie"
   },
   {
-    "name": "Eunbi Kim",
+    "name": "Anna Yang",
     "branch": "Irvine",
-    "primary": "",
-    "secondary": "Yohan",
-    "class_year": 2018
+    "class_year": "",
+    "primary": "Jenny",
+    "secondary": ""
   },
   {
-    "name": "Heer Hansalia",
+    "name": "Arron Shen",
     "branch": "Irvine",
+    "class_year": "",
     "primary": "",
-    "secondary": "",
-    "class_year": 2018
+    "secondary": ""
   },
   {
-    "name": "Hypatia Shen (C)",
+    "name": "Ashley Yoonseo Shin",
     "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
+    "class_year": "",
+    "primary": "Jenny",
+    "secondary": ""
   },
   {
-    "name": "Jacob Kim",
+    "name": "Ananya Vuppula",
     "branch": "Irvine",
-    "primary": "",
-    "secondary": "No GPAM",
-    "class_year": 2018
+    "class_year": "",
+    "primary": "Jay",
+    "secondary": ""
   },
   {
-    "name": "Jayden Seunghyo Ki",
+    "name": "Aaron Zhu",
     "branch": "Irvine",
-    "primary": "",
-    "secondary": "Yohan",
-    "class_year": 2018
+    "class_year": "",
+    "primary": "Vincent",
+    "secondary": ""
   },
   {
-    "name": "Jinseo Michael Lee",
+    "name": "Ben Chengxun Li",
     "branch": "Irvine",
-    "primary": "",
-    "secondary": "Yohan",
-    "class_year": 2018
+    "class_year": "",
+    "primary": "Jay",
+    "secondary": ""
   },
   {
-    "name": "Julian Chen (C)",
+    "name": "Brenden Wang",
     "branch": "Irvine",
-    "primary": "",
-    "secondary": "Yohan",
-    "class_year": 2018
+    "class_year": "",
+    "primary": "Vincent",
+    "secondary": ""
   },
   {
-    "name": "Mason Ziyang Zhou (C)",
+    "name": "Caleb Shin",
     "branch": "Irvine",
-    "primary": "",
-    "secondary": "Yohan",
-    "class_year": 2018
+    "class_year": "",
+    "primary": "Vincent",
+    "secondary": ""
   },
   {
-    "name": "Max Wang\n[SERVICE CANCELED]",
+    "name": "Carolyn O'Brien",
     "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
+    "class_year": "",
+    "primary": "Vincent",
+    "secondary": "Joseph Cho"
   },
   {
-    "name": "Minjun kim",
+    "name": "Christian Jeng",
     "branch": "Irvine",
-    "primary": "",
-    "secondary": "Bonnie",
-    "class_year": 2018
+    "class_year": "",
+    "primary": "Vincent",
+    "secondary": "Joseph Cho"
   },
   {
-    "name": "Nathan So",
+    "name": "Christine Li",
     "branch": "Irvine",
-    "primary": "",
-    "secondary": "Bonnie",
-    "class_year": 2018
+    "class_year": "",
+    "primary": "Jenny",
+    "secondary": ""
   },
   {
-    "name": "Qianhao Rachel Zhu (C)",
+    "name": "Christy Zihui Xu",
     "branch": "Irvine",
-    "primary": "",
-    "secondary": "Bonnie",
-    "class_year": 2018
+    "class_year": "",
+    "primary": "Anny",
+    "secondary": ""
   },
   {
-    "name": "Seowon Lucia Kim",
+    "name": "Claire Jin",
     "branch": "Irvine",
-    "primary": "",
-    "secondary": "Yohan",
-    "class_year": 2018
+    "class_year": "",
+    "primary": "Jay",
+    "secondary": "Anny"
   },
   {
-    "name": "Shinbi Lee",
+    "name": "Courtney Park",
     "branch": "Irvine",
-    "primary": "",
-    "secondary": "Yohan",
-    "class_year": 2018
+    "class_year": "",
+    "primary": "Vincent",
+    "secondary": ""
   },
   {
-    "name": "Tyler Haeyul Kim",
+    "name": "Dorina Lin",
     "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
+    "class_year": "",
+    "primary": "Anny",
+    "secondary": "Joseph Cho"
   },
   {
-    "name": "William Lee",
+    "name": "David Chang",
     "branch": "Irvine",
-    "primary": "",
-    "secondary": "Heather",
-    "class_year": 2018
+    "class_year": "",
+    "primary": "Vincent",
+    "secondary": ""
   },
   {
-    "name": "Peixi Cici Qiu (C)",
+    "name": "Dhara Hansalia",
     "branch": "Irvine",
-    "primary": "",
-    "secondary": "Bonnie",
-    "class_year": 2018
+    "class_year": "",
+    "primary": "Anny",
+    "secondary": ""
   },
   {
-    "name": "Yi David Gao (C)",
+    "name": "Dong Yeop Lee",
     "branch": "Irvine",
-    "primary": "",
-    "secondary": "Bonnie",
-    "class_year": 2018
+    "class_year": "",
+    "primary": "Jay",
+    "secondary": "Joseph Cho"
   },
   {
-    "name": "Yunseo Na",
+    "name": "Eric Wang",
     "branch": "Irvine",
-    "primary": "",
-    "secondary": "Yohan",
-    "class_year": 2018
+    "class_year": "",
+    "primary": "Jessica",
+    "secondary": "Joseph Cho"
   },
   {
-    "name": "Austen Wang (C)",
+    "name": "Ethan Dohyun Kim",
     "branch": "Irvine",
+    "class_year": "",
     "primary": "",
-    "secondary": "Yohan",
-    "class_year": 2018
+    "secondary": "Joseph Cho"
   },
   {
-    "name": "Avantika Vuppula (I)",
+    "name": "Evana Thomson",
     "branch": "Irvine",
-    "primary": "",
-    "secondary": "Heather",
-    "class_year": 2018
+    "class_year": "",
+    "primary": "Jenny",
+    "secondary": ""
   },
   {
-    "name": "Daniel Inyong Chung",
+    "name": "Evelyn Bekker (M)",
     "branch": "Irvine",
-    "primary": "",
-    "secondary": "Yohan",
-    "class_year": 2018
+    "class_year": "",
+    "primary": "Vincent",
+    "secondary": ""
   },
   {
-    "name": "Daniel Yoogun Kim",
+    "name": "Gavin Chen",
     "branch": "Irvine",
-    "primary": "",
-    "secondary": "Bonnie",
-    "class_year": 2018
+    "class_year": "",
+    "primary": "Anny",
+    "secondary": ""
   },
   {
-    "name": "Davina Park",
+    "name": "Geon Yoon",
     "branch": "Irvine",
-    "primary": "",
-    "secondary": "Bonnie",
-    "class_year": 2018
+    "class_year": "",
+    "primary": "Vincent",
+    "secondary": ""
   },
   {
-    "name": "Grace Zhu (C)",
+    "name": "Grace D Jin",
     "branch": "Irvine",
-    "primary": "",
-    "secondary": "Penny",
-    "class_year": 2018
+    "class_year": "",
+    "primary": "Jenny",
+    "secondary": ""
   },
   {
-    "name": "Hongbo Hobart Wang (I)",
+    "name": "Haeeun Yun",
     "branch": "Irvine",
-    "primary": "",
-    "secondary": "Yohan",
-    "class_year": 2018
+    "class_year": "",
+    "primary": "Jenny",
+    "secondary": ""
   },
   {
-    "name": "Jayden Shin",
+    "name": "Haiseong Hwang",
     "branch": "Irvine",
-    "primary": "",
-    "secondary": "Bonnie",
-    "class_year": 2018
+    "class_year": "",
+    "primary": "Jay",
+    "secondary": ""
   },
   {
-    "name": "Jonathan Pang",
+    "name": "Hansen Shao",
     "branch": "Irvine",
-    "primary": "",
-    "secondary": "Bonnie",
-    "class_year": 2018
+    "class_year": "",
+    "primary": "Anny",
+    "secondary": ""
   },
   {
-    "name": "Juyoung Park",
+    "name": "Heidi Jung",
     "branch": "Irvine",
-    "primary": "",
-    "secondary": "Yohan",
-    "class_year": 2018
+    "class_year": "",
+    "primary": "Jenny",
+    "secondary": ""
   },
   {
-    "name": "Minji Kwak",
+    "name": "Helen Zhang",
     "branch": "Irvine",
+    "class_year": "",
+    "primary": "Vincent",
+    "secondary": ""
+  },
+  {
+    "name": "Hyeonmin Seo",
+    "branch": "Irvine",
+    "class_year": "",
+    "primary": "Jay",
+    "secondary": ""
+  },
+  {
+    "name": "Hyunbin So",
+    "branch": "Irvine",
+    "class_year": "",
+    "primary": "Jenny",
+    "secondary": ""
+  },
+  {
+    "name": "Isaac Sohn",
+    "branch": "Irvine",
+    "class_year": "",
+    "primary": "Vincent",
+    "secondary": "Joseph Cho"
+  },
+  {
+    "name": "Isabella Ni",
+    "branch": "Irvine",
+    "class_year": "",
+    "primary": "Anny",
+    "secondary": "Penny"
+  },
+  {
+    "name": "Jaden Kim",
+    "branch": "Irvine",
+    "class_year": "",
+    "primary": "Vincent",
+    "secondary": ""
+  },
+  {
+    "name": "Jaewon Kim",
+    "branch": "Irvine",
+    "class_year": "",
+    "primary": "Jessica",
+    "secondary": ""
+  },
+  {
+    "name": "Jayne Kim",
+    "branch": "Irvine",
+    "class_year": "",
+    "primary": "Jenny",
+    "secondary": ""
+  },
+  {
+    "name": "Jeannie J Kim",
+    "branch": "Irvine",
+    "class_year": "",
+    "primary": "Jessica",
+    "secondary": ""
+  },
+  {
+    "name": "Jeongwon Park",
+    "branch": "Irvine",
+    "class_year": "",
+    "primary": "Vincent",
+    "secondary": "Joseph Cho"
+  },
+  {
+    "name": "Jerry Zidong Hu",
+    "branch": "Irvine",
+    "class_year": "",
+    "primary": "Anny",
+    "secondary": "Joseph Cho"
+  },
+  {
+    "name": "Jiann Kim",
+    "branch": "Irvine",
+    "class_year": "",
+    "primary": "Jenny",
+    "secondary": ""
+  },
+  {
+    "name": "Joseph Yae Kim",
+    "branch": "Irvine",
+    "class_year": "",
+    "primary": "Heather",
+    "secondary": ""
+  },
+  {
+    "name": "Juho Yoon",
+    "branch": "Irvine",
+    "class_year": "",
+    "primary": "Vincent",
+    "secondary": ""
+  },
+  {
+    "name": "Junseo Yoon",
+    "branch": "Irvine",
+    "class_year": "",
+    "primary": "Vincent",
+    "secondary": ""
+  },
+  {
+    "name": "Justin Joonhee Park",
+    "branch": "Irvine",
+    "class_year": "",
+    "primary": "Vincent",
+    "secondary": ""
+  },
+  {
+    "name": "Kyle Chang",
+    "branch": "Irvine",
+    "class_year": "",
+    "primary": "Jay",
+    "secondary": ""
+  },
+  {
+    "name": "Lena Park",
+    "branch": "Irvine",
+    "class_year": "",
+    "primary": "Jenny",
+    "secondary": ""
+  },
+  {
+    "name": "Lily Su",
+    "branch": "Irvine",
+    "class_year": "",
     "primary": "",
-    "secondary": "Bonnie",
-    "class_year": 2018
+    "secondary": ""
+  },
+  {
+    "name": "Logan Lee",
+    "branch": "Irvine",
+    "class_year": "",
+    "primary": "",
+    "secondary": ""
+  },
+  {
+    "name": "Lucas Shim (E)",
+    "branch": "Irvine",
+    "class_year": "",
+    "primary": "Vincent",
+    "secondary": "Joseph Cho"
+  },
+  {
+    "name": "Lucy Lee",
+    "branch": "Irvine",
+    "class_year": "",
+    "primary": "Jenny",
+    "secondary": "Joseph Cho"
+  },
+  {
+    "name": "Mason Chen",
+    "branch": "Irvine",
+    "class_year": "",
+    "primary": "Jessica",
+    "secondary": ""
+  },
+  {
+    "name": "Miles Hexun",
+    "branch": "Irvine",
+    "class_year": "",
+    "primary": "Jay",
+    "secondary": ""
+  },
+  {
+    "name": "Mingi Hong",
+    "branch": "Irvine",
+    "class_year": "",
+    "primary": "Jenny",
+    "secondary": ""
+  },
+  {
+    "name": "Minseo Lim",
+    "branch": "Irvine",
+    "class_year": "",
+    "primary": "Jay",
+    "secondary": ""
+  },
+  {
+    "name": "Nagyung Cho",
+    "branch": "Irvine",
+    "class_year": "",
+    "primary": "Vincent",
+    "secondary": ""
   },
   {
     "name": "Nathan Lee",
     "branch": "Irvine",
+    "class_year": 2029,
+    "primary": "Jay",
+    "secondary": ""
+  },
+  {
+    "name": "Noah Kang",
+    "branch": "Irvine",
+    "class_year": "",
+    "primary": "Jay",
+    "secondary": "Heather"
+  },
+  {
+    "name": "Oneal Wang",
+    "branch": "Irvine",
+    "class_year": "",
+    "primary": "Jay",
+    "secondary": ""
+  },
+  {
+    "name": "Prema Yugala",
+    "branch": "Irvine",
+    "class_year": "",
+    "primary": "Jenny",
+    "secondary": ""
+  },
+  {
+    "name": "Reo Huh",
+    "branch": "Irvine",
+    "class_year": "",
+    "primary": "Vincent",
+    "secondary": ""
+  },
+  {
+    "name": "Rubi Lee",
+    "branch": "Irvine",
+    "class_year": "",
+    "primary": "Jenny",
+    "secondary": "Joseph Cho"
+  },
+  {
+    "name": "Ryan Yoo",
+    "branch": "Irvine",
+    "class_year": "",
+    "primary": "Jay",
+    "secondary": ""
+  },
+  {
+    "name": "Samuel Choi",
+    "branch": "Irvine",
+    "class_year": "",
+    "primary": "Jay",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Seo Young Park",
+    "branch": "Irvine",
+    "class_year": "",
+    "primary": "Jenny",
+    "secondary": "Penny"
+  },
+  {
+    "name": "Seoyeon Yu",
+    "branch": "Irvine",
+    "class_year": "",
+    "primary": "Jessica",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "(AM CHINA)",
+    "branch": "Irvine",
+    "class_year": "",
+    "primary": "Jessica",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Serena Ren",
+    "branch": "Irvine",
+    "class_year": "",
+    "primary": "Jessica",
+    "secondary": ""
+  },
+  {
+    "name": "Sophia Huang",
+    "branch": "Irvine",
+    "class_year": "",
+    "primary": "Heather",
+    "secondary": ""
+  },
+  {
+    "name": "Steven Cheng",
+    "branch": "Irvine",
+    "class_year": "",
+    "primary": "Vincent",
+    "secondary": ""
+  },
+  {
+    "name": "Tiffany Chen",
+    "branch": "Irvine",
+    "class_year": "",
+    "primary": "Jay",
+    "secondary": ""
+  },
+  {
+    "name": "William Yifan Wang",
+    "branch": "Irvine",
+    "class_year": "",
+    "primary": "Anny",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Yangha Yu",
+    "branch": "Irvine",
+    "class_year": "",
+    "primary": "Vincent",
+    "secondary": "Joseph Cho"
+  },
+  {
+    "name": "Yeon Seo Choi",
+    "branch": "Irvine",
+    "class_year": "",
+    "primary": "Jessica",
+    "secondary": ""
+  },
+  {
+    "name": "Yihan Aiden Yoon",
+    "branch": "Irvine",
+    "class_year": "",
     "primary": "",
-    "secondary": "Bonnie",
-    "class_year": 2018
+    "secondary": ""
+  },
+  {
+    "name": "Yoonho Marcus Kim",
+    "branch": "Irvine",
+    "class_year": "",
+    "primary": "Jay",
+    "secondary": ""
+  },
+  {
+    "name": "Youle Wang",
+    "branch": "Irvine",
+    "class_year": "",
+    "primary": "Anny",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Yue (Celina) Yang",
+    "branch": "Irvine",
+    "class_year": "",
+    "primary": "Anny",
+    "secondary": ""
+  },
+  {
+    "name": "Aastine Bastine",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "Jessica",
+    "secondary": "Joseph Cho"
+  },
+  {
+    "name": "Aaron Kong",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "",
+    "secondary": ""
+  },
+  {
+    "name": "Abraham Cho",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "Joseph Cho",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Alisha Kim",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "Jay",
+    "secondary": ""
+  },
+  {
+    "name": "Alison Ko",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "Jenny",
+    "secondary": ""
+  },
+  {
+    "name": "Abinav Santhosh Neyyar",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "Heather",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Andrew Kao",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "Jay",
+    "secondary": ""
+  },
+  {
+    "name": "Andrew Oh",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "Jenny",
+    "secondary": ""
+  },
+  {
+    "name": "Anna Lynch",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "Vincent",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Bethany Kim",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "Jenny",
+    "secondary": "Joseph Cho"
+  },
+  {
+    "name": "Brendan Chang",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "",
+    "secondary": ""
+  },
+  {
+    "name": "Brianna Liu",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "",
+    "secondary": ""
+  },
+  {
+    "name": "Carson Gan",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "Jay",
+    "secondary": ""
+  },
+  {
+    "name": "Chloe Son",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "Vincent",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Charlotte Yoh",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "Joseph Cho",
+    "secondary": ""
+  },
+  {
+    "name": "Cooper Ren",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "Jenny",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "David Wong",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "Jenny",
+    "secondary": "Joseph Cho"
+  },
+  {
+    "name": "Elizabeth Soyoon Chang",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "Jenny",
+    "secondary": ""
+  },
+  {
+    "name": "Elizabeth Jung",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "Jenny",
+    "secondary": ""
+  },
+  {
+    "name": "Eugene Ban",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "Jenny",
+    "secondary": ""
+  },
+  {
+    "name": "Evan Zhu",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "",
+    "secondary": ""
+  },
+  {
+    "name": "Evelyn Chun",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "Jenny",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Goeun Katie Choi",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "Heather",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Grace Chang",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "",
+    "secondary": ""
+  },
+  {
+    "name": "Hailey Kim",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "Jenny",
+    "secondary": "Penny"
+  },
+  {
+    "name": "Hyeyun Rhim",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "Vincent",
+    "secondary": ""
+  },
+  {
+    "name": "Hyunsoo Kang",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "Jenny",
+    "secondary": "Joseph Cho"
+  },
+  {
+    "name": "Julian Stockton",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "Jenny",
+    "secondary": ""
+  },
+  {
+    "name": "Jack Dong",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "Jay",
+    "secondary": ""
+  },
+  {
+    "name": "Jackson (XiangJun) Lyu",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Jaehee Park",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "Jenny",
+    "secondary": "Joseph Cho"
+  },
+  {
+    "name": "Jaein Ryu",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "Heather",
+    "secondary": ""
+  },
+  {
+    "name": "Jake Kwon",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "Jay",
+    "secondary": "Joseph Cho"
+  },
+  {
+    "name": "James Lee",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "Vincent",
+    "secondary": ""
+  },
+  {
+    "name": "Jinyuan James Zhang",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Jingxing William Chen",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "Jay",
+    "secondary": "Joseph Cho"
+  },
+  {
+    "name": "Jiwon Kim",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "Vincent",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Jonathan Ye",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "",
+    "secondary": ""
+  },
+  {
+    "name": "Johnny Zhang",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "",
+    "secondary": ""
+  },
+  {
+    "name": "Jooha Bella Lee",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "Jenny",
+    "secondary": ""
+  },
+  {
+    "name": "Julia Yuwen",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "",
+    "secondary": ""
+  },
+  {
+    "name": "Junha Hwang",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "Jessica",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Kaden Kwak",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "Jenny",
+    "secondary": ""
+  },
+  {
+    "name": "Kayla Gao",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "",
+    "secondary": ""
+  },
+  {
+    "name": "Kunha Yu",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "Vincent",
+    "secondary": ""
+  },
+  {
+    "name": "Lucy Liu",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "",
+    "secondary": ""
+  },
+  {
+    "name": "Megan Chou",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "Jenny",
+    "secondary": ""
+  },
+  {
+    "name": "Matthew Li",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "Joseph Cho",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Minjee Kim",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "Heather",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Minseo Choi",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "Jenny",
+    "secondary": ""
+  },
+  {
+    "name": "Nina Huang",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "Penny",
+    "secondary": ""
+  },
+  {
+    "name": "Nobuki Ishizaka",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "Jenny",
+    "secondary": ""
+  },
+  {
+    "name": "Peter Choi",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "Jenny",
+    "secondary": ""
+  },
+  {
+    "name": "Ryan Shi",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "Jessica",
+    "secondary": "Joseph Cho"
+  },
+  {
+    "name": "Shaianne Kim (G)",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "",
+    "secondary": ""
+  },
+  {
+    "name": "Shangqiu Li",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "Vincent",
+    "secondary": ""
+  },
+  {
+    "name": "Soeun Lee",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "Vincent",
+    "secondary": ""
+  },
+  {
+    "name": "Sol Hwang",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "Joseph Cho",
+    "secondary": ""
+  },
+  {
+    "name": "Sophia H Ding",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "Jay",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Sophia Han",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "Jenny",
+    "secondary": ""
+  },
+  {
+    "name": "Stephan moses an",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "Jay",
+    "secondary": ""
+  },
+  {
+    "name": "Steven Kim",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "Jay",
+    "secondary": ""
+  },
+  {
+    "name": "Sydney Shen",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "Jessica",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Trinity Chen",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "",
+    "secondary": ""
+  },
+  {
+    "name": "Vera Yang",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "Vincent",
+    "secondary": "Joseph Cho"
+  },
+  {
+    "name": "Yejoon Phillip Jang",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "Vincent",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Yeowon Yoon",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "Jay",
+    "secondary": ""
+  },
+  {
+    "name": "Yesung Peter Jang",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "Vincent",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Yuna Sun",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "Jenny",
+    "secondary": "Joseph Cho"
+  },
+  {
+    "name": "Alex Jiwon Hwang",
+    "branch": "Irvine",
+    "class_year": 2027,
+    "primary": "",
+    "secondary": ""
+  },
+  {
+    "name": "Avery Hexun",
+    "branch": "Irvine",
+    "class_year": 2027,
+    "primary": "Jay",
+    "secondary": ""
+  },
+  {
+    "name": "Ayano Ishizaka",
+    "branch": "Irvine",
+    "class_year": 2027,
+    "primary": "Jenny",
+    "secondary": ""
+  },
+  {
+    "name": "Cailyn Lee",
+    "branch": "Irvine",
+    "class_year": 2027,
+    "primary": "Jenny",
+    "secondary": ""
+  },
+  {
+    "name": "Chloe Park",
+    "branch": "Irvine",
+    "class_year": 2027,
+    "primary": "Vincent",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Chenyuan Anna Zhao",
+    "branch": "Irvine",
+    "class_year": 2027,
+    "primary": "Jay",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Claire Chia",
+    "branch": "Irvine",
+    "class_year": 2027,
+    "primary": "Penny",
+    "secondary": ""
+  },
+  {
+    "name": "Claire Kyuyoung Kim",
+    "branch": "Irvine",
+    "class_year": 2027,
+    "primary": "Jason",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Doreen Yoon",
+    "branch": "Irvine",
+    "class_year": 2027,
+    "primary": "Jason",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Evangeline Kao",
+    "branch": "Irvine",
+    "class_year": 2027,
+    "primary": "Heather",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Doyoung Lee",
+    "branch": "Irvine",
+    "class_year": 2027,
+    "primary": "",
+    "secondary": ""
+  },
+  {
+    "name": "Gianna Kim",
+    "branch": "Irvine",
+    "class_year": 2027,
+    "primary": "Jenny",
+    "secondary": ""
+  },
+  {
+    "name": "Gunwon Kim",
+    "branch": "Irvine",
+    "class_year": 2027,
+    "primary": "Jessica",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Gyumin Benjamin Kim",
+    "branch": "Irvine",
+    "class_year": 2027,
+    "primary": "Jenny",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Heechan Choi",
+    "branch": "Irvine",
+    "class_year": 2027,
+    "primary": "Jenny",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Ian Choi",
+    "branch": "Irvine",
+    "class_year": 2027,
+    "primary": "Penny",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Irene Shin",
+    "branch": "Irvine",
+    "class_year": 2027,
+    "primary": "Heather",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Isabella Huang",
+    "branch": "Irvine",
+    "class_year": 2027,
+    "primary": "Jenny",
+    "secondary": ""
+  },
+  {
+    "name": "Jenny Nguyen (V)",
+    "branch": "Irvine",
+    "class_year": 2027,
+    "primary": "Joseph Cho",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Jiwoo Chung",
+    "branch": "Irvine",
+    "class_year": 2027,
+    "primary": "Jenny",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Jiwon Chung",
+    "branch": "Irvine",
+    "class_year": 2027,
+    "primary": "Vincent",
+    "secondary": "Penny"
+  },
+  {
+    "name": "Jubeen Yoon",
+    "branch": "Irvine",
+    "class_year": 2027,
+    "primary": "Vincent",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Junwoo Daniel Yoon",
+    "branch": "Irvine",
+    "class_year": 2027,
+    "primary": "Vincent",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Juyeon Kim",
+    "branch": "Irvine",
+    "class_year": 2027,
+    "primary": "Jessica",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Katrina Liu",
+    "branch": "Irvine",
+    "class_year": 2027,
+    "primary": "Jay",
+    "secondary": ""
+  },
+  {
+    "name": "((NEED to Contact Mom in *May 2026))",
+    "branch": "Irvine",
+    "class_year": 2027,
+    "primary": "",
+    "secondary": ""
+  },
+  {
+    "name": "Kiyan Parizi",
+    "branch": "Irvine",
+    "class_year": 2027,
+    "primary": "Vincent",
+    "secondary": ""
+  },
+  {
+    "name": "Madison Lee",
+    "branch": "Irvine",
+    "class_year": 2027,
+    "primary": "Heather",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Michelle Kim",
+    "branch": "Irvine",
+    "class_year": 2027,
+    "primary": "Jenny",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Minjun Choi",
+    "branch": "Irvine",
+    "class_year": 2027,
+    "primary": "Joseph Cho",
+    "secondary": "Joseph Cho"
+  },
+  {
+    "name": "Minseong Kim",
+    "branch": "Irvine",
+    "class_year": 2027,
+    "primary": "Jessica",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Naomi Huang",
+    "branch": "Irvine",
+    "class_year": 2027,
+    "primary": "Penny",
+    "secondary": ""
+  },
+  {
+    "name": "Nanxin Nancy Sun",
+    "branch": "Irvine",
+    "class_year": 2027,
+    "primary": "Jay",
+    "secondary": ""
+  },
+  {
+    "name": "Natalie Oh",
+    "branch": "Irvine",
+    "class_year": 2027,
+    "primary": "Jessica",
+    "secondary": "Heather"
+  },
+  {
+    "name": "Peilin Annie Qiu",
+    "branch": "Irvine",
+    "class_year": 2027,
+    "primary": "Jessica",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Rachel Kim",
+    "branch": "Irvine",
+    "class_year": 2027,
+    "primary": "Jenny",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Rachelle Jang",
+    "branch": "Irvine",
+    "class_year": 2027,
+    "primary": "Jenny",
+    "secondary": "Jessica"
+  },
+  {
+    "name": "Runying Chen",
+    "branch": "Irvine",
+    "class_year": 2027,
+    "primary": "Jessica",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Stewart Ma",
+    "branch": "Irvine",
+    "class_year": 2027,
+    "primary": "Jason",
+    "secondary": "Penny"
+  },
+  {
+    "name": "Sabrina Melissa Li Staats",
+    "branch": "Irvine",
+    "class_year": 2027,
+    "primary": "Heather",
+    "secondary": "Penny"
+  },
+  {
+    "name": "Vivian Hee Kim",
+    "branch": "Irvine",
+    "class_year": 2027,
+    "primary": "Jessica",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Yejoon Choi",
+    "branch": "Irvine",
+    "class_year": 2027,
+    "primary": "Heather",
+    "secondary": ""
+  },
+  {
+    "name": "Yiyang Tan",
+    "branch": "Irvine",
+    "class_year": 2027,
+    "primary": "Jay",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Yuna Li",
+    "branch": "Irvine",
+    "class_year": 2027,
+    "primary": "Jay",
+    "secondary": ""
+  },
+  {
+    "name": "Ying Camil Huang",
+    "branch": "Irvine",
+    "class_year": 2027,
+    "primary": "Vincent",
+    "secondary": "Penny"
+  },
+  {
+    "name": "Andrew Zhang",
+    "branch": "Irvine",
+    "class_year": 2028,
+    "primary": "Jason",
+    "secondary": ""
+  },
+  {
+    "name": "Annie Zhao",
+    "branch": "Irvine",
+    "class_year": 2028,
+    "primary": "Jay",
+    "secondary": ""
+  },
+  {
+    "name": "Daniel Taejoon Kim",
+    "branch": "Irvine",
+    "class_year": 2028,
+    "primary": "Vincent",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Eesha Murugesan",
+    "branch": "Irvine",
+    "class_year": 2028,
+    "primary": "Jenny",
+    "secondary": ""
+  },
+  {
+    "name": "Eunbi Kim",
+    "branch": "Irvine",
+    "class_year": 2028,
+    "primary": "Jessica",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Heer Hansalia",
+    "branch": "Irvine",
+    "class_year": 2028,
+    "primary": "Yohan",
+    "secondary": ""
+  },
+  {
+    "name": "Hypatia Shen",
+    "branch": "Irvine",
+    "class_year": 2028,
+    "primary": "Jenny",
+    "secondary": ""
+  },
+  {
+    "name": "Jacob Kim",
+    "branch": "Irvine",
+    "class_year": 2028,
+    "primary": "Heather",
+    "secondary": ""
+  },
+  {
+    "name": "Jayden Seunghyo Ki",
+    "branch": "Irvine",
+    "class_year": 2028,
+    "primary": "Vincent",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Jinseo Michael Lee",
+    "branch": "Irvine",
+    "class_year": 2028,
+    "primary": "Jenny",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Julian Chen",
+    "branch": "Irvine",
+    "class_year": 2028,
+    "primary": "Jenny",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Mason Ziyang Zhou",
+    "branch": "Irvine",
+    "class_year": 2028,
+    "primary": "Jay",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Minjun kim",
+    "branch": "Irvine",
+    "class_year": 2028,
+    "primary": "Jason",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Nathan So",
+    "branch": "Irvine",
+    "class_year": 2028,
+    "primary": "Yohan",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Qianhao Rachel Zhu",
+    "branch": "Irvine",
+    "class_year": 2028,
+    "primary": "Jay",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Seowon Lucia Kim",
+    "branch": "Irvine",
+    "class_year": 2028,
+    "primary": "Yohan",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Shinbi Lee",
+    "branch": "Irvine",
+    "class_year": 2028,
+    "primary": "Jason",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Tyler Haeyul Kim",
+    "branch": "Irvine",
+    "class_year": 2028,
+    "primary": "",
+    "secondary": ""
+  },
+  {
+    "name": "William Lee",
+    "branch": "Irvine",
+    "class_year": 2028,
+    "primary": "Jason",
+    "secondary": "Heather"
+  },
+  {
+    "name": "Peixi Cici Qiu",
+    "branch": "Irvine",
+    "class_year": 2028,
+    "primary": "Heather",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Yi David Gao",
+    "branch": "Irvine",
+    "class_year": 2028,
+    "primary": "Penny",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Yunseo Na",
+    "branch": "Irvine",
+    "class_year": 2028,
+    "primary": "Heather",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Austen Wang",
+    "branch": "Irvine",
+    "class_year": 2029,
+    "primary": "Heather",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Avantika Vuppula",
+    "branch": "Irvine",
+    "class_year": 2029,
+    "primary": "Yohan",
+    "secondary": "Heather"
+  },
+  {
+    "name": "Daniel Inyong Chung",
+    "branch": "Irvine",
+    "class_year": 2029,
+    "primary": "Jason",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Daniel Yoogun Kim",
+    "branch": "Irvine",
+    "class_year": 2029,
+    "primary": "Jenny",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "David Jin",
+    "branch": "Irvine",
+    "class_year": 2029,
+    "primary": "Jay",
+    "secondary": ""
+  },
+  {
+    "name": "Davina Park",
+    "branch": "Irvine",
+    "class_year": 2029,
+    "primary": "Jason",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Grace Zhu",
+    "branch": "Irvine",
+    "class_year": 2029,
+    "primary": "Jenny",
+    "secondary": "Penny"
+  },
+  {
+    "name": "Hongbo Hobart Wang",
+    "branch": "Irvine",
+    "class_year": 2029,
+    "primary": "Penny",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Jayden Shin",
+    "branch": "Irvine",
+    "class_year": 2029,
+    "primary": "Yohan",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Jonathan Pang",
+    "branch": "Irvine",
+    "class_year": 2029,
+    "primary": "Jason",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Juyoung Park",
+    "branch": "Irvine",
+    "class_year": 2029,
+    "primary": "Jenny",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Minji Kwak",
+    "branch": "Irvine",
+    "class_year": 2029,
+    "primary": "Jay",
+    "secondary": "Bonnie"
   },
   {
     "name": "Ryan Shim",
     "branch": "Irvine",
-    "primary": "",
-    "secondary": "Bonnie",
-    "class_year": 2018
+    "class_year": 2029,
+    "primary": "Yohan",
+    "secondary": "Bonnie"
   },
   {
-    "name": "Ruilin Yang (C)",
+    "name": "Ruilin Yang",
     "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
+    "class_year": 2029,
+    "primary": "Jessica",
+    "secondary": ""
   },
   {
-    "name": "Samantha Yee (C)",
+    "name": "Samantha Yee",
     "branch": "Irvine",
-    "primary": "",
-    "secondary": "",
-    "class_year": 2018
+    "class_year": 2029,
+    "primary": "Heather",
+    "secondary": ""
   },
   {
-    "name": "Zijun Jack Zhang (C)",
+    "name": "Tanvi Smira Pyla",
     "branch": "Irvine",
-    "primary": "",
-    "secondary": "Bonnie",
-    "class_year": 2018
+    "class_year": 2029,
+    "primary": "Jay",
+    "secondary": ""
+  },
+  {
+    "name": "Zijun Jack Zhang",
+    "branch": "Irvine",
+    "class_year": 2029,
+    "primary": "Yohan",
+    "secondary": "Bonnie"
   },
   {
     "name": "Vivian Yein Lee",
     "branch": "Irvine",
-    "primary": "",
-    "secondary": "Yohan",
-    "class_year": 2018
+    "class_year": 2029,
+    "primary": "Jenny",
+    "secondary": "Yohan"
   },
   {
-    "name": "ChenChen Sukie Shu (C)",
+    "name": "Service Starts in June 2026",
     "branch": "Irvine",
-    "primary": "",
-    "secondary": "Bonnie",
-    "class_year": 2018
+    "class_year": 2030,
+    "primary": "Jay",
+    "secondary": ""
+  },
+  {
+    "name": "ChenChen Sukie Shu",
+    "branch": "Irvine",
+    "class_year": 2030,
+    "primary": "Jenny",
+    "secondary": "Bonnie"
   },
   {
     "name": "Evan Ryu",
     "branch": "Irvine",
-    "primary": "",
-    "secondary": "Bonnie",
-    "class_year": 2018
+    "class_year": 2030,
+    "primary": "Jason",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Service Starts in June 2026",
+    "branch": "Irvine",
+    "class_year": 2030,
+    "primary": "Jay",
+    "secondary": ""
   },
   {
     "name": "Yuanxi Chen\uff08C)",
     "branch": "Irvine",
-    "primary": "",
-    "secondary": "Bonnie",
-    "class_year": 2018
+    "class_year": 2030,
+    "primary": "Yohan",
+    "secondary": "Bonnie"
   },
   {
     "name": "Henry Chiu \uff08C)",
     "branch": "Irvine",
+    "class_year": 2031,
+    "primary": "Heather",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Kindergarten",
+    "branch": "Irvine",
+    "class_year": 2031,
     "primary": "",
-    "secondary": "Bonnie",
-    "class_year": 2018
+    "secondary": ""
+  },
+  {
+    "name": "Xiaoyun Gloria Gong\uff08C)",
+    "branch": "Irvine",
+    "class_year": 2026,
+    "primary": "Jay",
+    "secondary": ""
+  },
+  {
+    "name": "Brandon Lee",
+    "branch": "LA",
+    "class_year": "",
+    "primary": "",
+    "secondary": ""
+  },
+  {
+    "name": "Chaewon Kim",
+    "branch": "LA",
+    "class_year": 2027,
+    "primary": "Vincent",
+    "secondary": ""
+  },
+  {
+    "name": "Rachel Lee",
+    "branch": "LA",
+    "class_year": 2026,
+    "primary": "Jay",
+    "secondary": "Anny"
+  },
+  {
+    "name": "Jeremy Kim",
+    "branch": "LA",
+    "class_year": 2027,
+    "primary": "Jason",
+    "secondary": ""
+  },
+  {
+    "name": "Ethan Ng",
+    "branch": "LA",
+    "class_year": "",
+    "primary": "Jessica",
+    "secondary": ""
+  },
+  {
+    "name": "Madison Lee",
+    "branch": "LA",
+    "class_year": "",
+    "primary": "Jessica",
+    "secondary": "Heather"
+  },
+  {
+    "name": "Raphael Dongkun Yang",
+    "branch": "LA",
+    "class_year": "",
+    "primary": "",
+    "secondary": ""
+  },
+  {
+    "name": "Sihoon Kim",
+    "branch": "LA",
+    "class_year": "",
+    "primary": "Vincent",
+    "secondary": ""
+  },
+  {
+    "name": "Aiden Joowon Park",
+    "branch": "LA",
+    "class_year": "",
+    "primary": "Heather",
+    "secondary": ""
+  },
+  {
+    "name": "Alistair Sejong King",
+    "branch": "LA",
+    "class_year": "",
+    "primary": "Jay",
+    "secondary": ""
+  },
+  {
+    "name": "Amber Yoon",
+    "branch": "LA",
+    "class_year": "",
+    "primary": "Vincent",
+    "secondary": ""
+  },
+  {
+    "name": "Alexis Ceenbie Lee",
+    "branch": "LA",
+    "class_year": "",
+    "primary": "",
+    "secondary": ""
+  },
+  {
+    "name": "Baron Kim",
+    "branch": "LA",
+    "class_year": "",
+    "primary": "Young",
+    "secondary": ""
+  },
+  {
+    "name": "Beatrice Jiang",
+    "branch": "LA",
+    "class_year": "",
+    "primary": "Jessica",
+    "secondary": ""
+  },
+  {
+    "name": "Caden Choi",
+    "branch": "LA",
+    "class_year": "",
+    "primary": "Jay",
+    "secondary": ""
+  },
+  {
+    "name": "Eunsoo Cho",
+    "branch": "LA",
+    "class_year": "",
+    "primary": "Jenny",
+    "secondary": ""
+  },
+  {
+    "name": "Erina Park",
+    "branch": "LA",
+    "class_year": "",
+    "primary": "Jessica",
+    "secondary": ""
+  },
+  {
+    "name": "Ethan Paik",
+    "branch": "LA",
+    "class_year": "",
+    "primary": "Jay",
+    "secondary": ""
+  },
+  {
+    "name": "Gahyeon Yoon",
+    "branch": "LA",
+    "class_year": "",
+    "primary": "Jessica",
+    "secondary": "Joseph Cho"
+  },
+  {
+    "name": "Gilbert Kim",
+    "branch": "LA",
+    "class_year": "",
+    "primary": "",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Haeun Nam",
+    "branch": "LA",
+    "class_year": "",
+    "primary": "Jenny",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Henry Bae",
+    "branch": "LA",
+    "class_year": "",
+    "primary": "Vincent",
+    "secondary": "Joseph Cho"
+  },
+  {
+    "name": "Hyewon Gil",
+    "branch": "LA",
+    "class_year": "",
+    "primary": "Jessica",
+    "secondary": "Joseph Cho"
+  },
+  {
+    "name": "Isabella Choi",
+    "branch": "LA",
+    "class_year": "",
+    "primary": "Jay",
+    "secondary": ""
+  },
+  {
+    "name": "Janet Lim",
+    "branch": "LA",
+    "class_year": "",
+    "primary": "Jenny",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Jasmine Chon",
+    "branch": "LA",
+    "class_year": "",
+    "primary": "Heather",
+    "secondary": "Joseph Cho"
+  },
+  {
+    "name": "Jay Um",
+    "branch": "LA",
+    "class_year": "",
+    "primary": "",
+    "secondary": ""
+  },
+  {
+    "name": "Jinhyun Kang",
+    "branch": "LA",
+    "class_year": "",
+    "primary": "Vincent",
+    "secondary": "Joseph Cho"
+  },
+  {
+    "name": "Jimmy Um",
+    "branch": "LA",
+    "class_year": "",
+    "primary": "",
+    "secondary": "Joseph Cho"
+  },
+  {
+    "name": "Joan Huh",
+    "branch": "LA",
+    "class_year": "",
+    "primary": "",
+    "secondary": ""
+  },
+  {
+    "name": "Joanne Lee",
+    "branch": "LA",
+    "class_year": "",
+    "primary": "Jessica",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Jocelyn Kim",
+    "branch": "LA",
+    "class_year": "",
+    "primary": "Jenny",
+    "secondary": ""
+  },
+  {
+    "name": "Joseph Gene Seok Koh",
+    "branch": "LA",
+    "class_year": "",
+    "primary": "Jay",
+    "secondary": "Joseph Cho"
+  },
+  {
+    "name": "Junho D. Lee",
+    "branch": "LA",
+    "class_year": "",
+    "primary": "Jay",
+    "secondary": "Joseph Cho"
+  },
+  {
+    "name": "Junhyeok Park",
+    "branch": "LA",
+    "class_year": "",
+    "primary": "Vincent",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Juyeong Lee",
+    "branch": "LA",
+    "class_year": "",
+    "primary": "Vincent",
+    "secondary": "Joseph Cho"
+  },
+  {
+    "name": "Kailyn Song",
+    "branch": "LA",
+    "class_year": "",
+    "primary": "Jessica",
+    "secondary": ""
+  },
+  {
+    "name": "Michelle Cho",
+    "branch": "LA",
+    "class_year": "",
+    "primary": "Jessica",
+    "secondary": "Joseph Cho"
+  },
+  {
+    "name": "Mingi Kim",
+    "branch": "LA",
+    "class_year": "",
+    "primary": "Jay",
+    "secondary": ""
+  },
+  {
+    "name": "Maggie Wu",
+    "branch": "LA",
+    "class_year": "",
+    "primary": "Heather",
+    "secondary": ""
+  },
+  {
+    "name": "Myungbeen Choi",
+    "branch": "LA",
+    "class_year": "",
+    "primary": "Vincent",
+    "secondary": ""
+  },
+  {
+    "name": "Noah Sim",
+    "branch": "LA",
+    "class_year": "",
+    "primary": "",
+    "secondary": "Joseph Cho"
+  },
+  {
+    "name": "Olivia Park",
+    "branch": "LA",
+    "class_year": "",
+    "primary": "Jenny",
+    "secondary": ""
+  },
+  {
+    "name": "Penelope Kimberling",
+    "branch": "LA",
+    "class_year": "",
+    "primary": "Jay",
+    "secondary": ""
+  },
+  {
+    "name": "Phillip Nam",
+    "branch": "LA",
+    "class_year": "",
+    "primary": "Vincent",
+    "secondary": "Joseph Cho"
+  },
+  {
+    "name": "Phillip Park",
+    "branch": "LA",
+    "class_year": "",
+    "primary": "Jessica",
+    "secondary": ""
+  },
+  {
+    "name": "Roy Kim",
+    "branch": "LA",
+    "class_year": "",
+    "primary": "Vincent",
+    "secondary": "Heather"
+  },
+  {
+    "name": "Soomin Lee",
+    "branch": "LA",
+    "class_year": "",
+    "primary": "Anny",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Tammy Shin",
+    "branch": "LA",
+    "class_year": "",
+    "primary": "Vincent",
+    "secondary": ""
+  },
+  {
+    "name": "Theodore Tak",
+    "branch": "LA",
+    "class_year": "",
+    "primary": "Jay",
+    "secondary": ""
+  },
+  {
+    "name": "Yidam Park",
+    "branch": "LA",
+    "class_year": "",
+    "primary": "Jessica",
+    "secondary": "Joseph Cho"
+  },
+  {
+    "name": "Woobin Wang",
+    "branch": "LA",
+    "class_year": "",
+    "primary": "Vincent",
+    "secondary": ""
+  },
+  {
+    "name": "Anthony Garam Kim",
+    "branch": "LA",
+    "class_year": 2026,
+    "primary": "",
+    "secondary": ""
+  },
+  {
+    "name": "Ahrhan Lee",
+    "branch": "LA",
+    "class_year": 2026,
+    "primary": "Heather",
+    "secondary": ""
+  },
+  {
+    "name": "Aiden Jaesung Lee",
+    "branch": "LA",
+    "class_year": 2026,
+    "primary": "Jason",
+    "secondary": ""
+  },
+  {
+    "name": "Annabel Lee",
+    "branch": "LA",
+    "class_year": 2026,
+    "primary": "Jessica",
+    "secondary": ""
+  },
+  {
+    "name": "Bom Rowena Lee",
+    "branch": "LA",
+    "class_year": 2026,
+    "primary": "Jenny",
+    "secondary": ""
+  },
+  {
+    "name": "Caden Ouh",
+    "branch": "LA",
+    "class_year": 2026,
+    "primary": "Jessica",
+    "secondary": ""
+  },
+  {
+    "name": "Caleb Song",
+    "branch": "LA",
+    "class_year": 2026,
+    "primary": "Vincent",
+    "secondary": ""
+  },
+  {
+    "name": "Chaerin Park",
+    "branch": "LA",
+    "class_year": 2026,
+    "primary": "Jessica",
+    "secondary": ""
+  },
+  {
+    "name": "Chloe Shin",
+    "branch": "LA",
+    "class_year": 2026,
+    "primary": "Heather",
+    "secondary": ""
+  },
+  {
+    "name": "Clara An",
+    "branch": "LA",
+    "class_year": 2026,
+    "primary": "Jessica",
+    "secondary": ""
+  },
+  {
+    "name": "Claire Choi",
+    "branch": "LA",
+    "class_year": 2026,
+    "primary": "Heather",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Dahee Ryu",
+    "branch": "LA",
+    "class_year": 2026,
+    "primary": "",
+    "secondary": ""
+  },
+  {
+    "name": "Daniel Seungjoon Lee",
+    "branch": "LA",
+    "class_year": 2026,
+    "primary": "Jason",
+    "secondary": ""
+  },
+  {
+    "name": "Dashiell Stevens",
+    "branch": "LA",
+    "class_year": 2026,
+    "primary": "Jason",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Dennis Geonhee Lee",
+    "branch": "LA",
+    "class_year": 2026,
+    "primary": "Jay",
+    "secondary": ""
+  },
+  {
+    "name": "[CH]",
+    "branch": "LA",
+    "class_year": 2026,
+    "primary": "Heather",
+    "secondary": ""
+  },
+  {
+    "name": "Dohee Lee",
+    "branch": "LA",
+    "class_year": 2026,
+    "primary": "Jenny",
+    "secondary": ""
+  },
+  {
+    "name": "Elaine Kim",
+    "branch": "LA",
+    "class_year": 2026,
+    "primary": "",
+    "secondary": ""
+  },
+  {
+    "name": "Eleanor Gil",
+    "branch": "LA",
+    "class_year": 2026,
+    "primary": "Jenny",
+    "secondary": ""
+  },
+  {
+    "name": "Ethan Cha",
+    "branch": "LA",
+    "class_year": 2026,
+    "primary": "Jay",
+    "secondary": ""
+  },
+  {
+    "name": "Ethan Moon",
+    "branch": "LA",
+    "class_year": 2026,
+    "primary": "Heather",
+    "secondary": ""
+  },
+  {
+    "name": "Heesuh Kim",
+    "branch": "LA",
+    "class_year": 2026,
+    "primary": "Vincent",
+    "secondary": ""
+  },
+  {
+    "name": "Hyoungjun Eric Jeon",
+    "branch": "LA",
+    "class_year": 2026,
+    "primary": "",
+    "secondary": ""
+  },
+  {
+    "name": "Irene Yi",
+    "branch": "LA",
+    "class_year": 2026,
+    "primary": "Jay",
+    "secondary": ""
+  },
+  {
+    "name": "Isaac Kim",
+    "branch": "LA",
+    "class_year": 2026,
+    "primary": "",
+    "secondary": ""
+  },
+  {
+    "name": "Jaclyn Sim",
+    "branch": "LA",
+    "class_year": 2026,
+    "primary": "Jenny",
+    "secondary": ""
+  },
+  {
+    "name": "Jayden Kim",
+    "branch": "LA",
+    "class_year": 2026,
+    "primary": "Jason",
+    "secondary": ""
+  },
+  {
+    "name": "Jeffrey Chae",
+    "branch": "LA",
+    "class_year": 2026,
+    "primary": "",
+    "secondary": ""
+  },
+  {
+    "name": "Jeewan Hong",
+    "branch": "LA",
+    "class_year": 2026,
+    "primary": "Jay",
+    "secondary": ""
+  },
+  {
+    "name": "Joel Lee",
+    "branch": "LA",
+    "class_year": 2026,
+    "primary": "Heather",
+    "secondary": ""
+  },
+  {
+    "name": "Joseph Lim",
+    "branch": "LA",
+    "class_year": 2026,
+    "primary": "Jason",
+    "secondary": ""
+  },
+  {
+    "name": "Junue Jang",
+    "branch": "LA",
+    "class_year": 2026,
+    "primary": "Jay",
+    "secondary": ""
+  },
+  {
+    "name": "Jiho Sung",
+    "branch": "LA",
+    "class_year": 2026,
+    "primary": "Jay",
+    "secondary": ""
+  },
+  {
+    "name": "Jiwon Park",
+    "branch": "LA",
+    "class_year": 2026,
+    "primary": "Heather",
+    "secondary": ""
+  },
+  {
+    "name": "Jungwoo Lee",
+    "branch": "LA",
+    "class_year": 2026,
+    "primary": "Heather",
+    "secondary": ""
+  },
+  {
+    "name": "Kyunglim Lauren Baek",
+    "branch": "LA",
+    "class_year": 2026,
+    "primary": "Heather",
+    "secondary": ""
+  },
+  {
+    "name": "Mindy Hong",
+    "branch": "LA",
+    "class_year": 2026,
+    "primary": "",
+    "secondary": ""
+  },
+  {
+    "name": "Luke Kim",
+    "branch": "LA",
+    "class_year": 2026,
+    "primary": "Jenny",
+    "secondary": ""
+  },
+  {
+    "name": "Mark Thomas Kim",
+    "branch": "LA",
+    "class_year": 2026,
+    "primary": "Jessica",
+    "secondary": ""
+  },
+  {
+    "name": "Michael Moon",
+    "branch": "LA",
+    "class_year": 2026,
+    "primary": "",
+    "secondary": ""
+  },
+  {
+    "name": "Michael Yoon",
+    "branch": "LA",
+    "class_year": 2026,
+    "primary": "Jessica",
+    "secondary": ""
+  },
+  {
+    "name": "Minyoung Park",
+    "branch": "LA",
+    "class_year": 2026,
+    "primary": "Jessica",
+    "secondary": ""
+  },
+  {
+    "name": "Nathan Cho",
+    "branch": "LA",
+    "class_year": 2026,
+    "primary": "Jay",
+    "secondary": ""
+  },
+  {
+    "name": "Rachel E Park",
+    "branch": "LA",
+    "class_year": 2026,
+    "primary": "Jay",
+    "secondary": ""
+  },
+  {
+    "name": "Rachel Yoon",
+    "branch": "LA",
+    "class_year": 2026,
+    "primary": "",
+    "secondary": ""
+  },
+  {
+    "name": "Romeo Ahn",
+    "branch": "LA",
+    "class_year": 2026,
+    "primary": "Jessica",
+    "secondary": ""
+  },
+  {
+    "name": "Sanha Kim",
+    "branch": "LA",
+    "class_year": 2026,
+    "primary": "Heather",
+    "secondary": ""
+  },
+  {
+    "name": "Sean Oh",
+    "branch": "LA",
+    "class_year": 2026,
+    "primary": "Jay",
+    "secondary": ""
+  },
+  {
+    "name": "Seojun Yang",
+    "branch": "LA",
+    "class_year": 2026,
+    "primary": "Vincent",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Sharon Kim",
+    "branch": "LA",
+    "class_year": 2026,
+    "primary": "",
+    "secondary": ""
+  },
+  {
+    "name": "Serene Han",
+    "branch": "LA",
+    "class_year": 2026,
+    "primary": "Jenny",
+    "secondary": ""
+  },
+  {
+    "name": "Yunseul Oh",
+    "branch": "LA",
+    "class_year": 2026,
+    "primary": "Heather",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Yeonjae Sara Seok",
+    "branch": "LA",
+    "class_year": 2026,
+    "primary": "",
+    "secondary": ""
+  },
+  {
+    "name": "Charlotte Im",
+    "branch": "LA",
+    "class_year": 2027,
+    "primary": "",
+    "secondary": ""
+  },
+  {
+    "name": "Abraham Kim",
+    "branch": "LA",
+    "class_year": 2027,
+    "primary": "Jessica",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Brian Kim",
+    "branch": "LA",
+    "class_year": 2027,
+    "primary": "Vincent",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "(changed from LA to IR)",
+    "branch": "LA",
+    "class_year": 2027,
+    "primary": "Jason",
+    "secondary": "Jessica"
+  },
+  {
+    "name": "Emily Yeonu Song",
+    "branch": "LA",
+    "class_year": 2027,
+    "primary": "Heather",
+    "secondary": ""
+  },
+  {
+    "name": "Emma Park",
+    "branch": "LA",
+    "class_year": 2027,
+    "primary": "Jenny",
+    "secondary": ""
+  },
+  {
+    "name": "Emma Yeonseo Song",
+    "branch": "LA",
+    "class_year": 2027,
+    "primary": "Jessica",
+    "secondary": "Penny"
+  },
+  {
+    "name": "Esther Moon",
+    "branch": "LA",
+    "class_year": 2027,
+    "primary": "Jenny",
+    "secondary": "Penny"
+  },
+  {
+    "name": "Eunsuh Park",
+    "branch": "LA",
+    "class_year": 2027,
+    "primary": "Jenny",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Gyutae Kim",
+    "branch": "LA",
+    "class_year": 2027,
+    "primary": "Jessica",
+    "secondary": ""
+  },
+  {
+    "name": "Ian Chhek",
+    "branch": "LA",
+    "class_year": 2027,
+    "primary": "Jason",
+    "secondary": ""
+  },
+  {
+    "name": "Ian Park",
+    "branch": "LA",
+    "class_year": 2027,
+    "primary": "Heather",
+    "secondary": ""
+  },
+  {
+    "name": "Ian W Nam",
+    "branch": "LA",
+    "class_year": 2027,
+    "primary": "Jenny",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Jaden Kim",
+    "branch": "LA",
+    "class_year": 2027,
+    "primary": "Jay",
+    "secondary": ""
+  },
+  {
+    "name": "Jenny E Lee",
+    "branch": "LA",
+    "class_year": 2027,
+    "primary": "Jenny",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Jinwook Jung",
+    "branch": "LA",
+    "class_year": 2027,
+    "primary": "Jenny",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Jonathan Shin",
+    "branch": "LA",
+    "class_year": 2027,
+    "primary": "Heather",
+    "secondary": ""
+  },
+  {
+    "name": "Jisu Yu",
+    "branch": "LA",
+    "class_year": 2027,
+    "primary": "",
+    "secondary": ""
+  },
+  {
+    "name": "Junwoo Kim",
+    "branch": "LA",
+    "class_year": 2027,
+    "primary": "Heather",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Kelly Jihyo Lim",
+    "branch": "LA",
+    "class_year": 2027,
+    "primary": "Jenny",
+    "secondary": "Jessica"
+  },
+  {
+    "name": "Kevin Han",
+    "branch": "LA",
+    "class_year": 2027,
+    "primary": "",
+    "secondary": ""
+  },
+  {
+    "name": "Korrine Lee",
+    "branch": "LA",
+    "class_year": 2027,
+    "primary": "Jenny",
+    "secondary": "Heather"
+  },
+  {
+    "name": "Lauren Park",
+    "branch": "LA",
+    "class_year": 2027,
+    "primary": "Vincent",
+    "secondary": ""
+  },
+  {
+    "name": "Leah Cha",
+    "branch": "LA",
+    "class_year": 2027,
+    "primary": "Heather",
+    "secondary": ""
+  },
+  {
+    "name": "Michelle Lee",
+    "branch": "LA",
+    "class_year": 2027,
+    "primary": "Jessica",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Noah Pak",
+    "branch": "LA",
+    "class_year": 2027,
+    "primary": "Heather",
+    "secondary": ""
+  },
+  {
+    "name": "Penny Youmie Park",
+    "branch": "LA",
+    "class_year": 2027,
+    "primary": "Heather",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Ryul Kang",
+    "branch": "LA",
+    "class_year": 2027,
+    "primary": "Jessica",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Sophia Bae",
+    "branch": "LA",
+    "class_year": 2027,
+    "primary": "Vincent",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Sophie Min",
+    "branch": "LA",
+    "class_year": 2027,
+    "primary": "Jenny",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "William Son",
+    "branch": "LA",
+    "class_year": 2027,
+    "primary": "Jessica",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Aiden Joon Lee",
+    "branch": "LA",
+    "class_year": 2028,
+    "primary": "Jason",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Amelia Chun",
+    "branch": "LA",
+    "class_year": 2028,
+    "primary": "Jenny",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Catherine Bae",
+    "branch": "LA",
+    "class_year": 2028,
+    "primary": "Jessica",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Claire Lee",
+    "branch": "LA",
+    "class_year": 2028,
+    "primary": "Jason",
+    "secondary": ""
+  },
+  {
+    "name": "Edward Baek",
+    "branch": "LA",
+    "class_year": 2028,
+    "primary": "Jason",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Evelyn S Kim",
+    "branch": "LA",
+    "class_year": 2028,
+    "primary": "Jay",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Harold Oh",
+    "branch": "LA",
+    "class_year": 2028,
+    "primary": "Heather",
+    "secondary": ""
+  },
+  {
+    "name": "Jooah Lee",
+    "branch": "LA",
+    "class_year": 2028,
+    "primary": "Jason",
+    "secondary": ""
+  },
+  {
+    "name": "Joshua Jiwon Lee",
+    "branch": "LA",
+    "class_year": 2028,
+    "primary": "Jason",
+    "secondary": ""
+  },
+  {
+    "name": "Minseo Kim",
+    "branch": "LA",
+    "class_year": 2028,
+    "primary": "Jessica",
+    "secondary": ""
+  },
+  {
+    "name": "Nadia Kim",
+    "branch": "LA",
+    "class_year": 2028,
+    "primary": "Jason",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Nathaniel Junyoung Lee",
+    "branch": "LA",
+    "class_year": 2028,
+    "primary": "Jay",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Oliver King",
+    "branch": "LA",
+    "class_year": 2028,
+    "primary": "Jason",
+    "secondary": ""
+  },
+  {
+    "name": "Patrick Kim",
+    "branch": "LA",
+    "class_year": 2028,
+    "primary": "Yohan",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Peter Lee",
+    "branch": "LA",
+    "class_year": 2028,
+    "primary": "Yohan",
+    "secondary": ""
+  },
+  {
+    "name": "Rachel Hamin Cho",
+    "branch": "LA",
+    "class_year": 2028,
+    "primary": "",
+    "secondary": ""
+  },
+  {
+    "name": "Sarah Shen",
+    "branch": "LA",
+    "class_year": 2028,
+    "primary": "Jenny",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Siwoo Michael Lee",
+    "branch": "LA",
+    "class_year": 2028,
+    "primary": "Penny",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Soeun Nam",
+    "branch": "LA",
+    "class_year": 2028,
+    "primary": "Jenny",
+    "secondary": ""
+  },
+  {
+    "name": "Tiffany Lee",
+    "branch": "LA",
+    "class_year": 2028,
+    "primary": "",
+    "secondary": ""
+  },
+  {
+    "name": "Yuju Kim",
+    "branch": "LA",
+    "class_year": 2028,
+    "primary": "Heather",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Aimee Min",
+    "branch": "LA",
+    "class_year": 2029,
+    "primary": "Jenny",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Brandon Oliver Kim",
+    "branch": "LA",
+    "class_year": 2029,
+    "primary": "Jason",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Daniel Junyi Park",
+    "branch": "LA",
+    "class_year": 2029,
+    "primary": "Vincent",
+    "secondary": ""
+  },
+  {
+    "name": "Kayden Kim",
+    "branch": "LA",
+    "class_year": 2029,
+    "primary": "Jenny",
+    "secondary": ""
+  },
+  {
+    "name": "Olivia Ting",
+    "branch": "LA",
+    "class_year": 2029,
+    "primary": "Jay",
+    "secondary": ""
+  },
+  {
+    "name": "Owen Lee",
+    "branch": "LA",
+    "class_year": 2029,
+    "primary": "Jason",
+    "secondary": ""
+  },
+  {
+    "name": "Ryan Cha",
+    "branch": "LA",
+    "class_year": 2029,
+    "primary": "Heather",
+    "secondary": ""
+  },
+  {
+    "name": "Seojeong Park",
+    "branch": "LA",
+    "class_year": 2029,
+    "primary": "Heather",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Shania Eun",
+    "branch": "LA",
+    "class_year": 2029,
+    "primary": "Jason",
+    "secondary": ""
+  },
+  {
+    "name": "Brandon Haechan Lee",
+    "branch": "LA",
+    "class_year": 2029,
+    "primary": "",
+    "secondary": ""
+  },
+  {
+    "name": "Noah Hwang",
+    "branch": "LA",
+    "class_year": 2029,
+    "primary": "",
+    "secondary": ""
+  },
+  {
+    "name": "Connor Im",
+    "branch": "LA",
+    "class_year": 2030,
+    "primary": "",
+    "secondary": ""
+  },
+  {
+    "name": "Justin Park",
+    "branch": "LA",
+    "class_year": 2030,
+    "primary": "Yohan",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Sophia Moon",
+    "branch": "LA",
+    "class_year": 2030,
+    "primary": "Jenny",
+    "secondary": ""
+  },
+  {
+    "name": "(VIP)",
+    "branch": "LA",
+    "class_year": 2031,
+    "primary": "Jenny",
+    "secondary": ""
+  },
+  {
+    "name": "Colin Lee",
+    "branch": "LA",
+    "class_year": 2031,
+    "primary": "Jason",
+    "secondary": ""
+  },
+  {
+    "name": "Hajin Kim",
+    "branch": "LA",
+    "class_year": 2031,
+    "primary": "Yohan",
+    "secondary": ""
+  },
+  {
+    "name": "June Jueun Lee",
+    "branch": "LA",
+    "class_year": 2031,
+    "primary": "Yohan",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Lacy Park",
+    "branch": "LA",
+    "class_year": 2031,
+    "primary": "Jason",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Logan Woojin Lee",
+    "branch": "LA",
+    "class_year": 2031,
+    "primary": "Jason",
+    "secondary": ""
+  },
+  {
+    "name": "Thomas Sumin Kim",
+    "branch": "LA",
+    "class_year": 2031,
+    "primary": "Yohan",
+    "secondary": "Bonnie"
+  },
+  {
+    "name": "Jayden Park",
+    "branch": "LA",
+    "class_year": 2032,
+    "primary": "Jason",
+    "secondary": "Yohan"
+  },
+  {
+    "name": "Andrea Yoo(G)",
+    "branch": "LA",
+    "class_year": 2026,
+    "primary": "Jay",
+    "secondary": ""
+  },
+  {
+    "name": "Minhyeok Choe (T)",
+    "branch": "LA",
+    "class_year": 2026,
+    "primary": "Jiei",
+    "secondary": ""
+  },
+  {
+    "name": "Jihye Lim(G)",
+    "branch": "LA",
+    "class_year": 2026,
+    "primary": "",
+    "secondary": ""
+  },
+  {
+    "name": "Soohwan Kim(G)",
+    "branch": "LA",
+    "class_year": 2027,
+    "primary": "Jay",
+    "secondary": ""
+  },
+  {
+    "name": "Noah Moon (G)",
+    "branch": "LA",
+    "class_year": 2027,
+    "primary": "Vincent",
+    "secondary": ""
   }
 ]
