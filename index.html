@@ -177,6 +177,8 @@
       font-weight: 500;
     }
     
+    .badge-elite { background: linear-gradient(135deg, #1a1a2e, #16213e); color: #fff; }
+    .badge-premium { background: #DC143C; color: #fff; }
     .badge-branch {
       background: #fff5f5;
       color: #DC143C;
@@ -228,6 +230,11 @@
     <select class="filter-select" id="primary-filter">
       <option value="all">All Primary Counselors</option>
     </select>
+    <select class="filter-select" id="tier-filter">
+      <option value="all">All Tiers</option>
+      <option value="Elite">Elite</option>
+      <option value="Premium">Premium</option>
+    </select>
     <select class="filter-select" id="year-filter">
       <option value="all">All Class Years</option>
     </select>
@@ -248,7 +255,8 @@
           <th>Branch</th>
           <th>Class Year</th>
           <th>Primary Counselor</th>
-          <th>Secondary Counselor</th>
+          <th>Service Tier</th>
+            <th>Secondary Counselor</th>
         </tr>
       </thead>
       <tbody id="table-body">
@@ -347,6 +355,7 @@
       const searchTerm = document.getElementById('search-input').value.toLowerCase();
       const branchFilter = document.getElementById('branch-filter').value;
       const primaryFilter = document.getElementById('primary-filter').value;
+      const tierFilter = document.getElementById('tier-filter').value;
       const yearFilter = document.getElementById('year-filter').value;
       
       return currentData.filter(s => {
@@ -354,7 +363,8 @@
         const matchesBranch = branchFilter === 'all' || s.branch === branchFilter;
         const matchesPrimary = primaryFilter === 'all' || s.primary === primaryFilter;
         const matchesYear = yearFilter === 'all' || String(s.class_year) === yearFilter;
-        return matchesSearch && matchesBranch && matchesPrimary && matchesYear;
+        const matchesTier = tierFilter === 'all' || (tierFilter === 'none' ? !s.tier : s.tier === tierFilter);
+        return matchesSearch && matchesBranch && matchesPrimary && matchesYear && matchesTier;
       });
     }
     
@@ -373,6 +383,7 @@
           <td><span class="badge badge-branch">${s.branch || '-'}</span></td>
           <td>${s.class_year ? `<span class="badge badge-class">Class of ${s.class_year}</span>` : '-'}</td>
           <td>${s.primary ? `<span class="counselor-pill">${s.primary}</span>` : '-'}</td>
+          <td>${s.tier ? `<span class="badge ${s.tier === 'Elite' ? 'badge-elite' : 'badge-premium'}">${s.tier}</span>` : '-'}</td>
           <td>${s.secondary ? `<span class="counselor-pill">${s.secondary}</span>` : '-'}</td>
         </tr>
       `).join('');
