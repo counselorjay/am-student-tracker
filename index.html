@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AM Intranet - Student Tracker</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: #0f0f23;
+      color: #fff;
+      min-height: 100vh;
+    }
+    
+    header {
+      background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+      padding: 20px 40px;
+      border-bottom: 1px solid #333;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    
+    header h1 {
+      font-size: 1.5rem;
+      color: #4facfe;
+    }
+    
+    .tab-nav {
+      display: flex;
+      gap: 10px;
+    }
+    
+    .tab-btn {
+      padding: 10px 20px;
+      background: transparent;
+      border: 1px solid #444;
+      color: #888;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+    
+    .tab-btn.active {
+      background: #4facfe;
+      color: #fff;
+      border-color: #4facfe;
+    }
+    
+    .stats-bar {
+      display: flex;
+      gap: 20px;
+      padding: 20px 40px;
+      background: #16213e;
+      border-bottom: 1px solid #333;
+    }
+    
+    .stat-card {
+      background: #1a1a2e;
+      padding: 15px 25px;
+      border-radius: 12px;
+      border: 1px solid #333;
+      min-width: 150px;
+    }
+    
+    .stat-card .number {
+      font-size: 2rem;
+      font-weight: 700;
+      color: #4facfe;
+    }
+    
+    .stat-card .label {
+      font-size: 0.85rem;
+      color: #888;
+      margin-top: 5px;
+    }
+    
+    .main-content {
+      padding: 30px 40px;
+    }
+    
+    .search-bar {
+      display: flex;
+      gap: 15px;
+      margin-bottom: 30px;
+    }
+    
+    .search-input {
+      flex: 1;
+      padding: 15px 20px;
+      background: #1a1a2e;
+      border: 1px solid #333;
+      border-radius: 12px;
+      color: #fff;
+      font-size: 1rem;
+      outline: none;
+    }
+    
+    .search-input:focus {
+      border-color: #4facfe;
+    }
+    
+    .filter-select {
+      padding: 15px 20px;
+      background: #1a1a2e;
+      border: 1px solid #333;
+      border-radius: 12px;
+      color: #fff;
+      font-size: 1rem;
+      min-width: 180px;
+    }
+    
+    .student-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 15px;
+    }
+    
+    .student-card {
+      background: #16213e;
+      border-radius: 12px;
+      padding: 20px;
+      border: 1px solid #333;
+      transition: all 0.2s;
+    }
+    
+    .student-card:hover {
+      border-color: #4facfe;
+      transform: translateY(-2px);
+    }
+    
+    .student-name {
+      font-size: 1.1rem;
+      font-weight: 600;
+      margin-bottom: 8px;
+    }
+    
+    .student-branch {
+      display: inline-block;
+      background: #4facfe;
+      color: #000;
+      padding: 4px 12px;
+      border-radius: 20px;
+      font-size: 0.75rem;
+      font-weight: 600;
+    }
+    
+    .student-meta {
+      margin-top: 12px;
+      font-size: 0.85rem;
+      color: #888;
+    }
+    
+    .empty-state {
+      text-align: center;
+      padding: 60px;
+      color: #666;
+    }
+    
+    .hidden { display: none; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>🎓 AM Intranet - Student Tracker</h1>
+    <div class="tab-nav">
+      <button class="tab-btn active" onclick="showTab('current')">Current Students</button>
+      <button class="tab-btn" onclick="showTab('past')">Past Clients</button>
+    </div>
+  </header>
+  
+  <div class="stats-bar" id="stats-bar">
+    <!-- Stats populated by JS -->
+  </div>
+  
+  <div class="main-content">
+    <div class="search-bar">
+      <input type="text" class="search-input" id="search-input" placeholder="Search students...">
+      <select class="filter-select" id="branch-filter">
+        <option value="all">All Branches</option>
+        <option value="LA">LA</option>
+        <option value="Irvine">Irvine</option>
+        <option value="Brea">Brea</option>
+        <option value="San Marino">San Marino</option>
+        <option value="AMCHINA">AMCHINA</option>
+        <option value="Korea">Korea</option>
+      </select>
+    </div>
+    
+    <div id="current-students" class="student-grid">
+      <!-- Student cards go here -->
+    </div>
+    
+    <div id="past-clients" class="student-grid hidden">
+      <!-- Past client cards go here -->
+    </div>
+  </div>
+
+  <script>
+    let currentData = [];
+    let pastData = [];
+    
+    // Load data
+    async function loadData() {
+      const [currentResp, pastResp] = await Promise.all([
+        fetch('current_students.json'),
+        fetch('past_clients.json')
+      ]);
+      currentData = await currentResp.json();
+      pastData = await pastResp.json();
+      
+      renderStats();
+      renderStudents(currentData, 'current-students');
+      renderStudents(pastData, 'past-clients');
+    }
+    
+    function renderStats() {
+      const branchCounts = {};
+      currentData.forEach(s => {
+        branchCounts[s.branch] = (branchCounts[s.branch] || 0) + 1;
+      });
+      
+      const statsHtml = `
+        <div class="stat-card">
+          <div class="number">${currentData.length}</div>
+          <div class="label">Current Students</div>
+        </div>
+        <div class="stat-card">
+          <div class="number">${pastData.length}</div>
+          <div class="label">Past Clients</div>
+        </div>
+        ${Object.entries(branchCounts).map(([branch, count]) => `
+          <div class="stat-card">
+            <div class="number">${count}</div>
+            <div class="label">${branch}</div>
+          </div>
+        `).join('')}
+      `;
+      document.getElementById('stats-bar').innerHTML = statsHtml;
+    }
+    
+    function renderStudents(data, elementId) {
+      const container = document.getElementById(elementId);
+      const searchTerm = document.getElementById('search-input').value.toLowerCase();
+      const branchFilter = document.getElementById('branch-filter').value;
+      
+      const filtered = data.filter(s => {
+        const matchesSearch = s.name.toLowerCase().includes(searchTerm);
+        const matchesBranch = branchFilter === 'all' || s.branch === branchFilter;
+        return matchesSearch && matchesBranch;
+      });
+      
+      if (filtered.length === 0) {
+        container.innerHTML = '<div class="empty-state">No students found</div>';
+        return;
+      }
+      
+      container.innerHTML = filtered.map(s => `
+        <div class="student-card">
+          <div class="student-name">${s.name}</div>
+          <span class="student-branch">${s.branch}</span>
+          <div class="student-meta">
+            ${s.class_year ? 'Class of ' + s.class_year : ''}
+          </div>
+        </div>
+      `).join('');
+    }
+    
+    function showTab(tab) {
+      document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+      event.target.classList.add('active');
+      
+      if (tab === 'current') {
+        document.getElementById('current-students').classList.remove('hidden');
+        document.getElementById('past-clients').classList.add('hidden');
+      } else {
+        document.getElementById('current-students').classList.add('hidden');
+        document.getElementById('past-clients').classList.remove('hidden');
+      }
+    }
+    
+    // Event listeners
+    document.getElementById('search-input').addEventListener('input', () => {
+      const activeTab = document.querySelector('.tab-btn.active').textContent;
+      const tab = activeTab.includes('Current') ? 'current-students' : 'past-clients';
+      renderStudents(tab === 'current-students' ? currentData : pastData, tab);
+    });
+    
+    document.getElementById('branch-filter').addEventListener('change', () => {
+      const activeTab = document.querySelector('.tab-btn.active').textContent;
+      const tab = activeTab.includes('Current') ? 'current-students' : 'past-clients';
+      renderStudents(tab === 'current-students' ? currentData : pastData, tab);
+    });
+    
+    // Initialize
+    loadData();
+  </script>
+</body>
+</html>
